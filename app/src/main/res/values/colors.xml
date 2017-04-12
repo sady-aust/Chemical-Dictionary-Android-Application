@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000000</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="textColor1">#311B92</color>
+    <color name="textColor2">#33691E</color>
+    <color name="searchColor">#4DD0E1</color>
+    <color name="buttonColor">#80DEEA</color>
+    <color name="nevigationBar">#263238</color>
+    <color name="layoutColor">#000000</color>
+    <color name="autoCompletecolor">#FFFFFF</color>
+    <color name="colorForChemicalName">#455A64</color>
+    <color name="textColor">#FFFFFF</color>
+    <color name="nevColor">#B2FF59</color>
+
+    <color name="black_overlay">#66000000</color>
+
+
+</resources>

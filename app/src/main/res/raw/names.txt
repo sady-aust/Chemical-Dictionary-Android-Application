@@ -1,0 +1,7929 @@
+﻿Ac2O3
+
+	Actinium(III) oxide|502.00 g/mol|white|https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/La2O3structure.jpg/121px-La2O3structure.jpg
+
+AgBF4
+
+	Silver tetrafluoroborate|194.673 g/mol|Off-white powder|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Silver-tetrafluoroborate-xtal-3D-SF.png/200px-Silver-tetrafluoroborate-xtal-3D-SF.png
+
+AgBr
+
+	silver bromide|187.77 g/mol|Pale yellow solid||https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Silver-bromide-3D-vdW.png/100px-Silver-bromide-3D-vdW.png
+
+AgBrO3
+
+	silver bromate|235.770 g/mol|white powder|https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Silver_bromate.svg/200px-Silver_bromate.svg.png
+
+AgCl
+
+	silver chloride|143.32 g/mol|White Solid|https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Silver-chloride-3D-ionic.png/200px-Silver-chloride-3D-ionic.png
+
+AgCl3Cu2
+
+	dicopper silver trichloride|341.3192 g/mol
+
+AgClO3
+
+	silver chlorate|191.319 g/mol|white crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Silver-chlorate-3D-vdW.png/200px-Silver-chlorate-3D-vdW.png
+
+AgClO4
+
+	silver perchlorate|207.319 g/mol|Colorless hygroscopic|https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Silver_perchlorate.png/120px-Silver_perchlorate.png
+
+AgCN
+
+	silver cyanide|133.8856 g/mol|colorless, gray (impure) crystals|
+
+AgF
+	silver fluoride|126.87 g/mol|yellow-brown solid|https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Silver%28I%29-fluoride-3D-ionic.png/150px-Silver%28I%29-fluoride-3D-ionic.png
+
+AgF2
+
+	silver fluoride|145.865 g/mol|white or grey crystalline powder, hygroscopic|https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Silver%28II%29-fluoride-3D-ionic.png/200px-Silver%28II%29-fluoride-3D-ionic.png
+
+AgI
+
+	silver iodide|234.77 g/mol|yellow, crystalline solid|https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Silver-iodide-3D-balls.png/200px-Silver-iodide-3D-balls.png
+
+AgIO3
+
+	silver iodate|282.77 g/mol|white crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Silver_iodate.png/200px-Silver_iodate.png
+
+AgMnO4
+
+	silver permanganate|226.804 g/mol|purple crystals or gray powder|https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Silver_permanganate.png/150px-Silver_permanganate.png
+
+AgN3
+
+	silver azide|149.888 g/mol|colorless solid|https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Silver-azide-high-T-single-layer-3D-vdW.png/200px-Silver-azide-high-T-single-layer-3D-vdW.png
+
+AgNO3
+
+	silver nitrate|169.87 g/mol|colorless solid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Silver-nitrate-2D.svg/160px-Silver-nitrate-2D.svg.png
+
+Ag2O
+
+	silver oxide|231.74 g/mol|Black/ brown cubic crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Silver%28I%29-oxide-unit-cell-3D-balls.png/120px-Silver%28I%29-oxide-unit-cell-3D-balls.png
+AgO
+
+	silver monoxide|123.87 g/mol|grey-black powder diamagnetic
+
+AgONC
+
+	silver fulminate|149.885 g/mol||https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Silver_fulminate.svg/200px-Silver_fulminate.svg.png
+
+AgPF6
+
+	silver hexafluorophosphate|252.83 g/mol|Off-white powder|https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Silver_hexafluorophosphate.png/180px-Silver_hexafluorophosphate.png
+
+AgSNC
+
+	silver thiocyanate||Colorless crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/AgSCN-skel.svg/160px-AgSCN-skel.svg.png
+
+Ag2C2
+
+	silver acetylide|239.76 g/mol|gray or white solid|https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Silver_acetylide.png/120px-Silver_acetylide.png
+
+Ag2CO3
+
+	silver carbonate|275.7453 g/mol|Pale yellow crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Ag2CO3-bas.png/160px-Ag2CO3-bas.png
+
+
+Ag2C2O4
+
+	silver oxalate|303.755 g/mol|white powder|https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Silver_oxalate_resonance.png/200px-Silver_oxalate_resonance.png
+
+Ag2Cl2
+
+	silver dichloride|286.6424 g/mol
+
+Ag2CrO4
+
+	silver chromate|331.73 g/mol|brown-red powder
+
+Ag2Cr2O7
+
+	silver dichromate|431.76 g/mol|ruby red powder
+
+Ag2F
+
+	silver subfluoride|234.734 g/mol|Bronze-colored crystals with green luster|https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Silver-subfluoride-3D-vdW.png/200px-Silver-subfluoride-3D-vdW.png
+
+Ag2MoO4
+
+	silver molybdate|375.67 g/mol|yellow crystals
+
+Ag2O
+
+	silver oxide|231.74 g/mol|Black/ brown cubic crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Silver%28I%29-oxide-unit-cell-3D-balls.png/120px-Silver%28I%29-oxide-unit-cell-3D-balls.png
+
+Ag2S
+
+	silver sulfide|247.80 g/mol|Grayish-black crystal|https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Ag2S-bas.png/160px-Ag2S-bas.png
+
+Ag2SO4
+
+	silver sulfate|311.799 g/mol|Colorless crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Silver_sulfate.png/160px-Silver_sulfate.png
+
+Ag2Se
+
+	silver selenide|294.7 g/mol||https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Ag2Sestructure.png/200px-Ag2Sestructure.png
+
+Ag2SeO3
+
+	silver selenite|342.69 g/mol|crystalline needles
+
+Ag2SeO4
+
+	silver selenate|358.694 g/mol
+
+Ag2Te
+
+	silver telluride|341.3364 g/mol|grey-black crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Ag2Te_structure.png/200px-Ag2Te_structure.png
+
+Ag3Br2
+
+	silver dibromide|483.4126 g/mol
+
+Ag3Br3
+
+	silver tribromide|563.3166 g/mol
+
+Ag3Cl3
+
+	silver trichloride|429.9636 g/mol
+
+Ag3I3
+
+	silver triiodide|704.31801 g/mol
+
+Ag3PO4
+
+	silver phosphate|418.58 g/mol|Translucent yellow,becomes opaque or discolors when impure
+
+AlBO
+
+	aluminium boron oxide
+
+AlBO2
+
+	aluminium borate
+
+AlBr
+
+	aluminium monobromide|106.89 g/mol
+
+AlBr3
+
+	aluminium tribromide|266.69 g/mol|white to pale yellow,crystalline solid|https://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Aluminium-bromide-3D-balls.png/200px-Aluminium-bromide-3D-balls.png
+
+AlCl
+
+	aluminium monochloride|62.43 g/mol
+
+AlClF
+
+	aluminium chloride fluoride
+
+AlClF
+
+	aluminium chloride fluoride
+
+AlClF2
+
+	aluminium chloride fluoride
+
+AlClO
+
+	aluminium chloride oxide
+
+AlCl2H
+
+	Dichloroalumane
+
+AlCl3
+
+	aluminium chloride|133.34 g/mol (anhydrous),241.43 g/mol (hexahydrate)|white or pale yellow solid|https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Aluminium-trichloride-dimer-3D-balls.png/200px-Aluminium-trichloride-dimer-3D-balls.png
+
+AlCl2F
+
+	aluminium chloride fluoride
+
+AlCl3
+
+	aluminium trichloride
+
+AlCl4Cs
+
+	aluminium caesium tetrachloride
+
+AlCl4K
+
+	potassium tetrachloroaluminate
+
+AlCl4Na
+
+	sodium tetrachloroaluminate
+
+AlCl4Rb
+
+	aluminium rubidium tetrachloride
+
+AlCl6K3
+
+	potassium hexachloroaluminate
+
+AlCl6Na3
+
+	sodium hexachloroaluminate
+
+AlF
+
+	aluminium monofluoride|45.98 g/mol
+
+AlFO
+
+	aluminium monofluoride monoxide
+
+AlF2
+
+	aluminium difluoride|64.9783 g/mol
+
+AlF2O
+
+	aluminium difluoride oxide|80.97774 g/mol
+
+AlF3
+
+	aluminium trifluoride|83.9767 g/mol|white, crystalline solid odorless|https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Aluminium-trifluoride-3D-polyhedra.png/200px-Aluminium-trifluoride-3D-polyhedra.png
+
+AlF4K
+
+	potassium tetrafluoroaluminate|142 g/mol|White solid
+
+AlF4Li
+
+	lithium tetrafluoroaluminate|109.9162 g/mol
+
+AlF6K3
+
+	potassium hexafluoraluminate|258.2669
+
+AlF6Li3
+
+	lithium hexafluoroaluminate|161.792 g/mol
+
+
+AlF6Na3
+
+	 sodium hexafluoroaluminate|209.9 g/mol||https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/816-_Ivigtut_-_cryolite.jpg/240px-816-_Ivigtut_-_cryolite.jpg
+
+AlGaInP
+
+	aluminium-gallium-indium phosphide|242.4963 g/mol
+
+Al(OH)3
+
+	aluminium hydroxide|78.00 g/mol|White amorphous powder|https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Gibbsite-crystal-3D-balls.png/200px-Gibbsite-crystal-3D-balls.png
+
+AlI
+
+	aluminium monoiodide|153.886 g/mol
+
+AlI3
+
+	aluminium triiodide|407.69495 g/mol|white powder but impure samples are often brown|https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aluminium-iodide-3D-balls.png/200px-Aluminium-iodide-3D-balls.png
+
+AlLiO2
+
+	lithium aluminate|65.92 g/mol|white crystalline powder
+
+AlN
+
+	aluminium nitride|40.9882 g/mol|white to pale-yellow solid|https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Wurtzite_polyhedra.png/200px-Wurtzite_polyhedra.png
+
+
+Al(NO2)3
+
+	aluminium nitrite|164.998
+
+Al(NO3)3
+
+	aluminium nitrate|212.996 g/mol|White crystals, solid|https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Aluminium_nitrate.png/150px-Aluminium_nitrate.png
+
+AlNaO2
+
+	sodium aluminate|81.97 g/mol|white powder(sometimes light-yellowish)
+
+AlO
+
+	aluminium monoxide|42.98 g/mol
+
+AlOSi
+
+	aluminium silicon monoxide|71.0664 g/mol|
+
+AlO2
+
+	Aluminium oxide|58.98 g/mol
+
+AlP
+
+	aluminium monophosphide|57.9552 g/mol|Yellow or gray crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Sphalerite-unit-cell-depth-fade-3D-balls.png/200px-Sphalerite-unit-cell-depth-fade-3D-balls.png
+
+AlPO4
+
+	aluminium phosphate|121.9529 g/mol|White, crystalline powder
+
+AlTe
+
+	aluminium monotelluride|154.5815 g/mol
+
+AlTe2
+
+	monoaluminium ditelluride|282.1815 g/mol
+
+Al2BeO4
+
+	beryllium aluminium oxide|126.972858 g/mol
+
+
+Al2Br6
+
+	dialuminium hexabromide|533.388 g/mol  
+
+Al2(CO3)3
+
+	aluminium carbonate|233.988 g/mol   
+
+Al2Cl9K3
+
+	potassium aluminium chloride|490.335 g/mol
+
+Al2CoO4
+
+	 cobalt aluminate|176.8939 g/mol|https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Cobalt_Blue.JPG/220px-Cobalt_Blue.JPG
+
+Al2F6
+
+	aluminium fluoride|167.9535|white, crystalline solid odorless|https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Aluminium-trifluoride-3D-polyhedra.png/200px-Aluminium-trifluoride-3D-polyhedra.png
+
+Al2I6
+
+	aluminium iodide|407.69495 g/mol |white powder but impure samples are often brown|https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Aluminium-iodide-3D-balls.png/200px-Aluminium-iodide-3D-balls.png
+
+Al2MgO4
+
+	magnesium aluminium oxide|142.2657 g/mol|Various|https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Spinel2.jpg/240px-Spinel2.jpg
+
+Al2O
+
+	dialuminium monoxide|69.9625 g/mol
+
+Al2O2
+
+	dialuminium dioxide|85.9619 g/mol
+
+Al2O3
+
+	aluminium oxide|101.96 g/mol|white solid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Corundum-3D-balls.png/250px-Corundum-3D-balls.png
+
+Al2O5Si
+
+	aluminium silicate|162.0456 g/mol
+
+Al2O5Si
+
+	aluminium silicate|162.0456 g/mol
+
+Al2O7Si2
+
+	aluminium silicate|162.0456 g/mol
+
+Al2S
+
+	dialuminium monosulfide|86.0281 g/mol
+
+Al2S3
+
+
+	aluminium sulfide|150.158 g/mol
+
+Al2(SO4)3
+
+	aluminium sulfate|342.15 g/mol|white crystalline solid
+
+Al2Se
+
+	dialuminium selenide|132.9231 g/mol
+
+Al2Si2O5(OH)4
+
+	kaolin||White, sometimes red, blue|https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/KaoliniteUSGOV.jpg/240px-KaoliniteUSGOV.jpg
+
+Al2Te
+
+	dialuminium telluride|181.5631 g/mol
+
+Al3F14Na5
+
+	chiolite|461.8711
+
+Al4C3
+
+	aluminium carbide|143.95853 g/mol|colorless (when pure)|https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Al4C3structure.png/200px-Al4C3structure.png
+
+Al6BeO10
+
+	beryllium aluminium oxide|126.9729 g/mol|Various shades of green, yellow, brownish to greenish black|https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Chrysoberyl-282796.jpg/240px-Chrysoberyl-282796.jpg
+
+Al6O13Si2
+
+	mullite|426.0524 g/mol|Colorless to pale pink or grey
+
+ArClF
+
+	argon chloride fluoride|94.3994 g/mol
+
+ArClH
+
+	argon chloride hydride|76.4089 g/mol
+
+ArFH
+
+	argon fluoride hydride|59.9543
+
+AsBrO
+
+	arsenic oxybromide|170.825
+
+AsBr3
+
+	arsenic tribromide|314.634 g/mol|white to pale yellow |https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Arsenic-tribromide-3D-balls.png/200px-Arsenic-tribromide-3D-balls.png
+
+AsClO
+
+	arsenic monoxide monochloride|126.374 g/mol
+
+AsCl3
+
+	arsenic trichloride|181.28 g/mol|colourless liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Arsenic-trichloride-3D-balls.png/200px-Arsenic-trichloride-3D-balls.png
+
+AsCl3O
+
+	arsenic oxychloride|197.2800 g/mol
+
+AsCl4F
+
+	arsenic tetrachloride fluoride|235.7320 g/mol
+
+AsF3
+
+	arsenic trifluoride|131.9168 g/mol|colorless liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Arsenic%28III%29fluoride.svg/100px-Arsenic%28III%29fluoride.svg.png
+
+AsF5
+
+	arsenic pentafluoride|169.9136 g/mol|colorless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Arsenpentafluorid.png/100px-Arsenpentafluorid.png
+
+AsH3
+
+	arsine|77.9454 g/mol|colourless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Arsine.png/130px-Arsine.png
+
+AsI3
+	arsenic triiodide|455.635 g/mol|orange-red crystalline solid
+
+AsO
+
+	arsenic monoxide|90.92100 g/mol
+
+AsO2
+
+	arsenic dioxide|106.920 g/mol
+
+AsP
+
+	arsenic monophosphide| 105.895362 ± 0.000022 g/mol
+
+AsP3
+
+	arsenic triphosphide|67.842886 ± 0.000026 g/mol
+
+AsTl
+
+	thallium arsenide|279.30490 ± 0.00022 g/mol
+
+As2I4
+
+	arsenic diiodide|657.461 g/mol|Red crystalline solid|https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Diphosphorus-tetraiodide-3D-balls.png/200px-Diphosphorus-tetraiodide-3D-balls.png
+
+As2O3
+
+	arsenic trioxide|197.841 g/mol|White solid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/As4O6-molecule-from-arsenolite-xtal-3D-balls.png/200px-As4O6-molecule-from-arsenolite-xtal-3D-balls.png
+
+As2P2
+
+	arsenic diphosphide| 211.790724 ± 0.000044 g/mol
+
+As2O5
+
+	arsenic pentoxide|229.8402 g/mol|white powder
+
+As2S4
+
+	arsenic tetrasulfide|278.1032 g/mol
+
+As2S5
+
+	arsenic pentasulfide|310.14 g/mol|Vivid, dark orange, opaque crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Arsenic_pentasulfide.svg/150px-Arsenic_pentasulfide.svg.png
+
+As2Se
+
+	arsenic hemiselenide|228.8032 g/mol
+
+As2Se3
+
+	arsenic triselenide|386.72 g/mol|brown-black powder
+
+As2Se5
+
+	arsenic pentaselenide|544.6432 g/mol
+
+As3O4
+
+	arsenic tetraoxide|288.7624 g/mol
+
+As3P
+
+	arsenic phosphide|255.738562 g/mol
+
+As4O3
+
+	tetraarsenic trioxide|347.68460 g/mol
+
+As4O5
+
+	tetraarsenic pentaoxide|379.6834 g/mol
+
+As4S3
+
+	tetraarsenic trisulfide|395.8814 g/mol
+
+As4S4
+
+	tetraarsenic tetrasulfide|427.9464 g/mol
+
+AuBO
+
+	gold monoboride monoxide|223.7770 g/mol
+
+AuBr
+
+	gold bromide|276.87 g/mol|lemon yellow crystals (AuBr-I), yellow-brown (AuBr-P)
+
+AuBr3
+
+	gold tribromide|436.69 g/mol|dark red to black crystalline|https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Gold-tribromide-dimer-3D-balls.png/200px-Gold-tribromide-dimer-3D-balls.png
+
+AuCN
+
+	gold cyanide|222.9840 g/mol
+
+AuCl
+
+	gold chloride|232.423 g/mol|yellow solid
+
+AuCl3
+
+	gold trichloride|303.325 g/mol|Red crystals (anhydrous); golden, yellow crystals |https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/AuCl3_structure.svg/220px-AuCl3_structure.svg.png
+
+AuF3
+
+	gold trifluoride|253.962 g/mol|orange-yellow hexagonal crystals
+
+AuI
+
+	gold iodide|323.871039 g/mol
+
+AuI3
+
+	gold iodide|323.871039 g/mol
+
+Au(OH)3
+
+	gold hydroxide|247.9886 g/mol|Vivid, dark yellow crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Gold%28III%29_hydroxide.png/150px-Gold%28III%29_hydroxide.png
+
+AuTe
+
+	gold telluride|324.5666 g/mol
+
+Au2O3
+
+	gold trioxide|441.93 g/mol|red-brown solid
+
+Au2S
+
+	gold sulfide|425.9981 g/mol
+
+Au2S3
+
+	gold trisulfide|490.1281 g/mol
+
+Au2(SeO4)3
+
+	gold triselenate|822.8059 g/mol
+
+Au2Se3
+
+	gold triselenide|630.8131 g/mol
+
+BAs
+
+	boron arsenide|85.733 g/mol||https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Boron-arsenide-unit-cell-1963-CM-3D-balls.png/200px-Boron-arsenide-unit-cell-1963-CM-3D-balls.png
+
+BAsO4
+
+	boron arsenate|149.7302 g/mol
+
+BBr3
+
+	boron tribromide|250.52 g/mol|colorless to amber liquid
+
+BCl3
+
+	boron trichloride|117.17 g/mol|Colorless gas,fumes in air|https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Boron-trichloride-2D.png/100px-Boron-trichloride-2D.png
+
+BF3
+
+	boron trifluoride|67.82 g/mol (anhydrous),103.837 g/mol (dihydrate)|https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Boron-trifluoride-2D-dimensions.png/100px-Boron-trifluoride-2D-dimensions.png
+
+BI3
+
+	boron iodide|391.5244 g/mol
+
+BN
+
+	boron nitride|24.82 g/mol|Colorless crystals
+
+B(NO2)3
+
+	boron nitrite|148.8275 g/mol
+
+B(NO3)3
+
+	boron nitrate|196.8257 g/mol
+
+B(OH)3
+
+	boric acid|61.83 g/mol|White crystalline solid|https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Boric-acid-2D.png/100px-Boric-acid-2D.png
+
+BP
+
+	boron phosphide|41.7848 g/mol
+
+BPO4
+
+	boron orthophosphate|105.7824 g/mol
+
+B2Cl4
+
+	boron chloride|117.17 g/mol|Colorless gas,fumes in air|https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Boron-trichloride-2D.png/100px-Boron-trichloride-2D.png
+
+B2F4
+
+	boron trifluoride|67.82 g/mol (anhydrous),103.837 g/mol (dihydrate)|https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Boron-trifluoride-2D-dimensions.png/100px-Boron-trifluoride-2D-dimensions.png
+
+B2H6
+
+	boron hydride|27.67 g/mol|Colorless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Diborane-2D.png/244px-Diborane-2D.png
+
+B2O3
+
+	boron oxide|69.6182 g/mol|white, glassy solid
+
+B2S3
+
+	boron sulfide|117.80 g/mol|colorless crystals
+
+B3N3H6
+
+	borazine|80.50 g/mol|Colorless liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Borazine-dimensions-2D.png/200px-Borazine-dimensions-2D.png
+
+B4C
+
+	boron carbide|55.255 g/mol|dark gray or black powder
+
+Ba(AlO2)2
+
+	barium aluminate|255.2877 g/mol
+
+Ba(AsO3)2
+
+	barium arsenite|383.1666 g/mol
+
+Ba(AsO4)2
+
+	barium arsenate|415.1654 g/mol
+
+BaB6
+
+	barium hexaboride|202.1930 g/mol
+
+Ba(BrO3)2·H2O
+
+	barium bromate monohydrate|411.1467 g/mol
+
+Ba(BrO3)2·2H2O
+
+	barium bromate dihydrate| 429.1620 g/mol
+
+BaBr2
+
+	barium bromide|297.14 g/mol|White solid
+
+Ba(CHO2)2
+
+	barium formate|227.3619 g/mol
+
+Ba(C2H3O2)2
+
+	barium acetate|255.42 g/mol|White solid|https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Barium_acetate.png/200px-Barium_acetate.png
+
+Ba(CN)2
+
+	barium cyanide|189.362 g/mol|white crystal|https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Barium_cyanide_structure.svg/200px-Barium_cyanide_structure.svg.png
+
+BaC2O4
+
+	barium oxalate|225.346 g/mol||https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Barium_oxalate.png/200px-Barium_oxalate.png
+
+BaC2
+
+	barium carbide| 161.3484 g/mol
+
+BaCO3
+	barium carbonate witherite|197.34 g/mol|white crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Barium_carbonate.png/150px-Barium_carbonate.png
+
+Ba(ClO4)2
+
+	barium perchlorate|336.228 g/mol|white powder
+
+BaCl2
+
+	barium chloride|208.23 g/mol (anhydrous),244.26 g/mol (dihydrate)|White solid
+
+BaCrO4
+
+	barium chromate barium chromate(VI)|253.37 g/mol|yellow powder
+
+BaF2
+
+	barium fluoride|175.34 g/mol|	white cubic crystals
+
+BaFeSi4O10
+
+	gillespite|465.5080 g/mol
+
+BaHgI4
+
+	barium tetraiodomercurate(II)|845.5349 g/mol
+
+Ba(HS)2
+
+	barium hydrosulfide|203.4729 g/mol
+
+BaI2
+
+	barium iodide|391.136 g/mol|White crystals
+
+BaK2(CrO4)2
+
+	barium potassium chromate|447.5110 g/mol
+
+BaMnO4
+
+	barium manganate|256.26 g/mol|light blue to dark blue and black powder
+
+Ba(MnO4)2
+
+	barium permanganate|375.198 g/mol|dark violet to brown crystals
+
+BaMoO4
+
+	barium molybdate| 297.2846 g/mol
+
+BaN6
+
+	barium azide|221.37 g/mol|white crystalline solid|https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Barium_azide.svg/200px-Barium_azide.svg.png
+
+Ba(NO2)2
+
+	barium nitrite|229.3380 g/mol
+
+Ba(NO3)2
+
+	barium nitrate|261.337 g/mol|white, lustrous crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Barium_nitrate.png/200px-Barium_nitrate.png
+
+Ba(NbO3)2
+
+	barium niobate|419.1362 g/mol
+
+BaNb2O6
+
+	barium metaniobate|419.1362 g/mol
+
+BaO
+
+	barium oxide|153.326 g/mol|white solid|
+
+Ba(OH)2
+
+	barium hydroxide baryta|171.3417 g/mol|white solid
+
+BaO2
+
+	barium peroxide|169.33 g/mol|Grey-white crystalline  
+
+Ba(PO3)2
+
+	barium metaphosphate|295.27 g/mol|Powder
+
+BaS
+
+	barium sulfide|169.39 g/mol
+
+Ba(SCN)2
+
+	barium thiocyanate|171.3417 g/mol
+
+BaS2O3
+
+	barium thiosulfate|249.4552 g/mol
+
+BaSiF6
+
+	barium hexafluorosilicate|279.4029 g/mol
+
+BaSO3
+
+	barium sulfite|217.391 g/mol|white monoclinic crystals
+
+BaSO4
+
+	barium sulfate barite|233.38 g/mol|white crystalline|https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Barium-sulfate-2D.png/225px-Barium-sulfate-2D.png
+
+BaSe
+
+	barium selenide|216.2870 g/mol
+
+BaSeO3
+
+	barium selenite|264.2852 g/mol
+
+BaSeO4
+
+	barium selenate|280.2846 g/mol
+
+BaSiO3
+
+	barium metasilicate|213.4107 g/mol
+
+BaSi2
+
+	barium silicide|193.4980 g/mol
+
+BaSi2O5
+
+	barium disilicate|273.4950 g/mol
+
+BaSn3
+
+	barium stannate|493.4570 g/mol
+
+BaTeO3
+
+	barium tellurite|312.9252 g/mol
+
+BaTeO4·3H2O
+
+	barium tellurate trihydrate|382.9704 g/mol
+
+BaTiO3
+
+	barium titanate barium metatitanate|233.192 g/mol|white crystals
+
+BaU2O7
+
+	barium uranium oxide|725.3806 g/mol
+
+BaWO4
+
+	barium tungstate|233.38 g/mol|white crystalline|https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/Barium-sulfate-2D.png/225px-Barium-sulfate-2D.png
+
+BaZrO3
+
+	barium zirconate|276.5492 g/mol
+
+Ba2Na(NbO3)5
+
+	barium sodium niobate| 1002.1667 g/mol
+
+Ba2P2O7
+
+	barium pyrophosphate|448.5973 g/mol
+
+Ba2V2O7
+
+	barium pyrovanadate|488.5328 g/mol
+
+Ba2XeO6
+
+	barium perxenate|501.9434 g/mol
+
+Ba3(CrO4)2
+
+	barium chromate(V)|643.9684 g/mol
+
+Ba3N2
+
+	barium nitride|439.9944 g/mol
+
+Ba3(PO4)2
+
+	barium orthophosphate|601.9237 g/mol
+
+Ba3(VO4)2
+
+	barium orthovandate|641.8592 g/mol
+
+BeB2
+
+	beryllium boride|30.634182 g/mol
+
+Be(BH4)2
+
+	beryllium borohydride|38.70 g/mol|white crystals
+
+BeBr2
+
+	beryllium bromide|168.820 g/mol|colorless white crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Beryllium_bromide.svg/250px-Beryllium_bromide.svg.png
+
+Be(CHO2)2
+
+	beryllium formate|99.047062 g/mol
+
+BeCO3
+
+	beryllium carbonate|69.021082 g/mol
+
+Be(C2H3O2)2
+
+	beryllium acetate|406.3122 g/mol|colorless|https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Basic-beryllium-acetate-3D-balls.png/240px-Basic-beryllium-acetate-3D-balls.png
+
+Be(C5H7O2)2
+
+	beryllium acetylacetonate|207.227942 g/mol
+
+BeCl2
+
+	beryllium chloride|79.9182 g/mol|https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Beryllium-chloride-xtal-3D-balls-A.png/200px-Beryllium-chloride-xtal-3D-balls-A.png
+
+Be(ClO)2
+
+	beryllium hypochlorite|111.917 g/mol|
+
+Be(ClO3)2
+
+	beryllium chlorate|175.9146 g/mol
+
+Be(ClO4)2
+
+	beryllium perchlorate|207.9134 g/mol
+
+BeF2
+
+	beryllium fluoride|colorless lumps|47.01 g/mol|https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/BeF2str.PNG/240px-BeF2str.PNG
+
+BeI2
+
+	beryllium iodide|262.821 g/mol|colorless needle-like crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Beryllium_iodide.svg/250px-Beryllium_iodide.svg.png
+
+Be(NO2)2
+
+	beryllium nitrite|101.0232 g/mol
+
+Be(NO3)2
+
+	beryllium nitrate|133.021982 g/mol|white to yellow solid|https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Beryllium_Nitrate_Diagram.svg/200px-Beryllium_Nitrate_Diagram.svg.png
+
+BeO
+
+	beryllium oxide bromellite|25.01 g/mol|Colourless, vitreous crystals
+
+Be(OH)2
+
+	beryllium hydroxide|43.03 g/mol|Vivid white, opaque crystals
+
+BeS
+
+	beryllium sulfide|41.077 g/mol|white crystalline
+
+BeSO3
+
+	beryllium sulfite|89.075 g/mol
+
+BeSO4
+
+	beryllium sulfate|105.075 g/mol|white solid|https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Beryllium_sulfate.svg/200px-Beryllium_sulfate.svg.png
+
+Be2C
+
+	beryllium carbide|30.04 g/mol|Yellow crystals
+
+Be3Al2(SiO3)6
+
+	beryl|537.50 g/mol
+
+Be3N2
+
+	beryllium nitride|55.06 g/mol|yellow or white powder
+
+BiBO3
+
+	bismuth orthoborate|267.7896 g/mol
+
+BiBr3
+
+	bismuth bromide|448.69 g/mol|white to light yellow crystals|
+
+Bi(C2H3O2)3
+
+	bismuth acetate|386.112 g/mol|White crystals or powder|https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Bismuth%28III%29_acetate.png/200px-Bismuth%28III%29_acetate.png
+
+BiC6H5O7
+
+	bismuth citrate|398.0801 g/mol
+
+BiCl3
+
+	bismuth chloride|315.34 g/mol|white to yellow crystals
+
+BiF3
+
+	bismuth fluoride|265.97550 g/mol|grey-white powder|https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kristallstruktur_Yttrium%28III%29-fluorid.png/200px-Kristallstruktur_Yttrium%28III%29-fluorid.png
+
+BiI3
+
+	bismuth iodide|589.69 g/mol|greenish-black crystals
+
+Bi(NO3)3·5H2O
+
+	bismuth nitrate pentahydrate|485.0715 g/mol
+
+BiOCl
+
+	bismuth oxychloride|260.4328 g/mol
+
+BiOI
+
+	bismuth oxyiodide|351.88427 ± 0.00034 g/mol
+
+(BiO)2CO3
+
+	bismuth oxycarbonate|509.9685 g/mol|fine white to pale yellow-white powder
+
+BiPO4
+
+	bismuth orthophosphate|303.9518 g/mol
+
+Bi(VO3)5
+
+	bismuth metavanadate|703.6789 g/mol
+
+Bi2Se3
+
+	bismuth selenide bismuth selenide|654.8408 g/mol
+
+Bi2(MoO4)3
+
+	bismuth molybdate|897.8336 g/mol
+
+Bi2O3
+
+	bismuth oxide|465.96 g/mol|yellow crystals or powder
+
+Bi2S3
+
+	bismuth sulfide bismuthinite|514.1558 g/mol
+
+Bi2Se3
+
+	bismuth selenide|654.8408 g/mol
+
+BrCl
+
+	bromine chloride|115.357 g/mol||https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Bromine-monochloride-2D.png/125px-Bromine-monochloride-2D.png
+
+BrO3(-)
+
+	bromate ion|---
+
+Br2
+
+	bromine|159.8080 g/mol
+
+Br2O5
+
+	dibromine pentoxide|239.805 g/mol|colorless solid|https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Dibromine_pentoxide.svg/150px-Dibromine_pentoxide.svg.png
+
+CCl2F2
+
+	dichlorodifluoromethane| 120.9135 g/mol
+
+CCl4
+
+	carbon tetrachloride|153.81 g/mol|colourless liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tetrachlormethan.svg/100px-Tetrachlormethan.svg.png
+
+CFCl3
+
+	freon-11|137.3681 g/mol
+
+CFCl2CF2Cl
+
+	freon-13|187.3756 g/mol
+
+CHCl3
+
+	methyl trichloride|119.37 g/mol|Colorless liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Chloroform_displayed.svg/100px-Chloroform_displayed.svg.png
+
+CHO2(-)
+
+	formate ion|---|---|https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Formate.svg/150px-Formate.svg.png
+
+C4H6
+
+	1,3-butadiene|54.0916 g/mol|Colourless gas
+
+CH2CO
+
+	ketene|---|---|https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Ketenes.png/220px-Ketenes.png
+
+C2H4O
+
+	ethenol|44.053 g/mol|---|
+
+C2H3ClO2
+
+	chloroacetic acid|94.49 g/mol|Colorless or white crystals
+
+CH2Cl2
+
+	dichloromethane|84.93 g/mol|Colorless liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Dichloromethane_molecular_structure.png/100px-Dichloromethane_molecular_structure.png
+
+CH2O
+
+	formaldehyde|30.03 g/mol|Colorless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Formaldehyde-2D.svg/100px-Formaldehyde-2D.svg.png
+
+CH2(OH)2
+
+	methanediol|48.04 g/mol|Colourless liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Methanediol-2D.png/100px-Methanediol-2D.png
+
+C2H6O2
+
+	ethylene glycol|62.07 g/mol|Clear, colorless liquid|
+
+C3H4
+
+	propyne|40.0639 g/mol|Colorless gas
+
+C4H8
+
+	butene|56.106 g/mol
+
+C3H6
+
+	propene|42.08 g/mol|Colorless gas
+
+C2H4O
+
+	acetaldehyde|44.05 g/mol|Colourless liquid
+
+C2H5Br
+
+	bromoethane|108.97 g/mol
+
+
+CH3CH2CH2CH2OH
+
+	butan-1-ol|74.12 g/mol
+
+C3H8O
+
+	1-propanol|60.10 g/mol|Colorless liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Propan-1-ol-3D-balls.png/200px-Propan-1-ol-3D-balls.png
+
+C3H7NO
+
+	propanamide|73.10 g/mol|liquid , yellow|https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Propanamide-2D-skeletal.png/100px-Propanamide-2D-skeletal.png
+
+C3H6O2
+
+	propionic acid|	74.08 g/mol|Colorless, oily liquid
+
+C4H10O
+
+	diethyl etherethoxyethane|74.12 g/mol|Colorless liquid
+
+C2H6O
+
+	ethanol|46.07 g/mol|Colorless liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Ethanol-2D-flat.png/100px-Ethanol-2D-flat.png
+
+C18H36O2
+
+	stearic acid|284.48 g/mol|White solid
+
+C3H6O
+
+	acetone|58.08 g/mol|colorless liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Acetone-CRC-MW-ED-dimensions-2D.png/136px-Acetone-CRC-MW-ED-dimensions-2D.png
+
+
+CH3COCl
+
+	acetyl chloride|78.49 g/mol|colorless liquid
+
+C2H5NO
+
+	ethanamide|59.07 g/mol|colorless|https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Acetamide_skeletal.svg/100px-Acetamide_skeletal.svg.png
+
+C2H3O2-
+
+	acetate ion|59.04 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Acetate-anion-3D-balls.png/200px-Acetate-anion-3D-balls.png
+
+C4H6O2
+
+	vinyl acetate|86.09 g/mol|Colorless liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Vinyl-acetate-3D-balls.png/170px-Vinyl-acetate-3D-balls.png
+
+C9H10O2
+
+	benzyl acetate|150.18 g/mol|Watery-white liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Benzyl_acetate-structure.svg/200px-Benzyl_acetate-structure.svg.png
+
+C7H14O2
+
+	isoamyl acetate|130.19 g/mol|Colorless liquid
+
+C2H4O2
+
+	acetic acid|60.05 g/mol|Colourless liquid
+
+CH3COONa
+
+	sodium acetate
+
+CH3COOK
+
+	potassium acetate
+
+CH3COORb
+
+	rubidium acetate
+
+CH3COOCs
+
+	caesium acetate
+
+(CH3CO)2O
+
+	acetic anhydride
+
+CH3Cl
+
+	methyl chloride
+
+CH3I
+
+	methyl iodide
+
+CH3OCH3
+
+	dimethyl ether
+
+CH3OCs
+
+	caesium methoxide
+
+CH3OH
+
+	methanol
+
+CH3OK
+
+	potassium methoxide
+
+CH3OLi
+
+	lithium methoxide
+
+CH3ONa
+
+	sodium methoxide
+
+CH3ORb
+
+	rubidium methoxide
+
+CH3SCH3
+
+	dimethyl sulfide
+
+CH3SH
+
+	methanethiol
+
+(CH3)2CHOH
+
+	isopropyl alcohol
+
+(CH3)2CO
+
+	acetone
+
+(CH3)2C2O4
+
+	dimethyl oxalate
+
+(CH3)2NNH2
+
+	dimethyl hydrazine
+
+(CH3)2S+CH2CH2COO-
+
+	dimethylsulfoniopropionate\DMSP
+
+(CH3)3CCl
+
+	t-butyl chloride
+
+(CH)3COH
+
+	t-butyl alcohol
+
+(CH3)3COOC(CH3)3
+
+	di-t-butyl peroxide\DTBP
+
+CH4
+	methane
+
+CH4N2O2
+
+	hydroxycarbamide
+
+CN-
+
+	cyanide ion
+
+(CN)2
+
+	cyanogen
+
+C(NH2)3NO3
+
+	guanidine nitrate
+
+CNO-
+
+	cyanate ion
+
+CO
+
+	carbon monoxide|28.010 g/mol|colorless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Carbon_monoxide_2D.svg/170px-Carbon_monoxide_2D.svg.png
+
+COCl2
+
+	phosgene
+
+CO2
+
+	carbon dioxide|44.01 g/mol|Colorless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Carbon-dioxide-2D-dimensions.svg/170px-Carbon-dioxide-2D-dimensions.svg.png
+
+CO3
+
+	carbon trioxide
+
+CO32-
+
+	carbonate ion
+
+CS2
+
+	carbon disulfide
+
+C2F4
+
+	tetrafluoroethylene
+
+C2H2
+
+	acetylene
+
+C2H3Cl
+
+	vinyl chloride
+
+C2H3O2-
+
+	acetate ion
+
+C2H4
+
+	ethylene
+
+C2H4Cl2
+
+	ethylene dichloride
+
+C2H4N4
+
+	3-amino-1,2,4-triazole
+
+C2H4O2
+
+	acetic acid
+
+C2H5Br
+
+	bromoethane
+
+C2H5NH2
+
+	ethylamine
+
+C2H5NO2
+
+	glycine\Gly
+
+C2H5O-
+
+	ethoxide ion
+
+C2H5OH
+
+	ethanol
+
+(C2H5)2NH
+
+	diethylamine
+
+C2H5OCs
+
+	caesium ethoxide
+
+C2H5OK
+
+	potassium ethoxide
+
+C2H5ONa
+
+	sodium ethoxide
+
+C2H5ORb
+
+	rubidium ethoxide
+
+C2H6
+
+	ethane
+
+C2H6OS
+
+	dimethyl sulfoxide
+
+C2H7NO3S
+
+	taurine
+
+C2O42-
+
+	oxalate ion
+
+C3H3O4-
+
+	malonate ion
+
+C3H4N2
+
+	imidazole
+
+C3H4N2S
+
+	aminothiazole
+
+C3H4O3
+
+	pyruvic acid
+
+C3H4O4
+
+	malonic acid
+
+C3H5N3
+
+	3-amino-1H-pyrazole
+
+C3H5N3O9
+
+	nitroglycerine
+
+C3H6
+
+	cyclopropane\propylene
+
+C3H7NO2
+
+	a-alanine\ß-alanine
+
+C3H7NO2S
+
+	cysteine\Cys
+
+C3H7NO3
+
+	serine\Ser
+
+C3H8
+
+	propane
+
+C3H8O
+
+	propanol
+
+C3H8O3
+
+	glycerol
+
+C3N3(OH)3
+
+	cyanuric acid
+
+C3N12
+
+	cyanuric triazide
+
+C4HCl2FN2
+
+	2,6-dichloro-5-fluoroacil
+
+C4H2BrClN2
+
+	5-bromo-2-chloropyrimidine
+
+C4H2Cl2N2
+
+	2,4-dichloropyrimidine
+
+C4H3Cl2N3
+
+	2-amino-4,6-dichloropyrimidine
+
+C4H3FN2O2
+
+	fluorouracil
+
+C4H4FN3O
+
+	flucytosine
+
+C4H4N2O2
+
+	uracil
+
+C4H4N4
+
+	3-aminopyrazole-4-carbonitrile
+
+C4H5N3O
+
+	cytosine
+
+C4H6N2S
+
+	2-amino-4-methylthiazole
+
+C4H6N4O
+
+	2,4-diamino-6-hydroxypyrimidine
+
+C4H6O4
+
+	succinic acid
+
+C4H7BrO2
+
+	2-bromobutyric acid\4-bromobutyric acid	\a-bromoisobutyric acid	\ethyl bromoacetate
+
+C4H7NO2
+
+	1-Aminocyclopropanecarboxylic acid
+
+C4H7NO4
+
+	aspartic acid
+
+C4H8
+
+	cyclobutane
+
+C4H8N2O3
+
+	asparagine
+
+C4H8O
+
+	tetrahydrofuran
+
+C4H8O2
+
+	ethyl acetate
+
+C4H9NO2
+
+	aminobutyric acid
+
+C4H9NO3
+
+	threonine
+
+C4H9OH
+
+	butyl alcohol
+
+C4H10
+
+	2-methylpropane
+
+C4H10O
+
+	diethyl ether
+
+C5H3BrN2O2
+
+	2-bromo-5-nitropyridine
+
+C5H3Br2N
+
+	3,5-dibromopyridine
+
+C5H3ClN2O2
+
+	2-chloro-5-nitropyridine
+
+C5H3ClN4
+
+	6-chloropurine
+
+C5H4NCOOH
+
+	niacin
+
+C5H4N2O2
+
+	pyrazinoic acid
+
+C5H4N2O4
+
+	orotic acid
+
+C5H4N4O
+
+	hypoxanthine
+
+C5H4N4O2
+
+	xanthine
+
+C5H4N4S
+
+	mercaptopurine
+
+C5H4O2S
+
+	b-thiophenic acid
+
+C5H5-
+
+	cyclopentadienyl anion
+
+C5H5BrN2
+
+	2-amino-5-bromopyridine
+
+C5H5ClN2
+
+	2-amino-4-chloropyridine
+
+C5H5IN2
+
+	2-amino-5-iodopyridine
+
+C5H5N
+
+	pyridine
+
+C5H5NO
+
+	3-pyridinol
+
+C5H5N3O
+
+	pyrazinamide
+
+C5H5N3O2
+
+	2-amino-nitropyridine
+
+C5H5N5
+
+	adenine
+
+C5H5N5O
+
+	guanine
+
+C5H6BNO2
+
+	3-pyridinylboronic acid
+
+C5H6N2
+
+	4-aminopyridine
+
+C5H6N2O
+
+	2-amino-3-hydroxypyridine
+
+C5H6N2OS
+
+	methylthiouracil
+
+C5H6N2O2
+
+	thymine
+
+C5H6O5
+
+	a-Ketoglutaric acid
+
+C5H7N3
+
+	3,4-diaminopyridine
+
+C5H9NO2
+
+	proline
+
+C5H9NO4
+
+	glutamic acid
+
+C5H10
+
+	cyclopentane
+
+C5H10N2O3
+
+	glutamine
+
+C5H10O4
+
+	deoxyribose
+
+C5H11NO2
+
+	valine
+
+C5H11NO2S
+
+	methionine
+
+C5H12
+
+	pentane
+
+C6F5COOH
+
+	pentafluorobenzoic acid
+
+C6H4BrNO2
+
+	5-bromonicotinic acid
+
+C6H4ClNO2
+
+	2-chloronicotinic acid
+
+C6H4ClN3
+
+	6-chloro-7-dezapurine
+
+C6H4ClNO2
+
+	6-chloro-2-pyridinecarboxylic acid
+
+C6H4O2
+
+    parabenzoquinone
+
+C6H5CHO
+
+	benzaldehyde
+
+C6H5CH2OH
+
+	benzyl alcohol
+
+C6H5COCl
+
+	benzoyl chloride
+
+C6H5COO-
+
+	benzoate ion
+
+C6H5COOH
+
+	benzoic acid
+
+C6H5F
+
+	fluorobenzene
+
+C6H5NO2
+
+	picolinic acid
+
+C6H5NO3
+
+	4-nitrophenol
+
+C6H5OH
+
+	phenol
+
+C6H5O7(3-)
+
+	citrate ion
+
+(C6H5)4Ge
+
+	tetraphenylgermane
+
+C6H6
+
+	benzene
+
+C6H6BClO2
+
+	4-chlorophenylboronic acid
+
+C6H6BFO2
+
+	4-fluorophenylboronic acid
+
+C6H6IN
+
+	4-iodoaniline
+
+C6H6N2O
+
+	nicotinamide
+
+C6H6N2O2
+
+	6-aminonicotinic acid
+
+C6H6O
+
+	phenol
+
+C6H6O2
+
+	benzenediols
+
+C6H6O3
+
+	hydroxymethylfurfural
+
+C6H7BO2
+
+	phenylboronic acid
+
+C6H7N3O
+
+	isoniazid
+
+C6H8N2
+
+	2-amino-3-methylpyridine
+
+C6H8N2O2S
+
+	ethyl 2-aminothiazole-4-carboxylate
+
+C6H8O7
+
+	citric acid
+
+C6H9N3O2
+
+	ethyl 5-amino-1H-pyrazole-4-carboxylate
+
+C6H9N3O3
+
+	metronidazole
+
+C6H10O3
+
+	4-acetylbutyric acid
+
+C6H11NO2
+
+	pipecolic acid
+
+C6H12
+
+	cyclohexane
+
+C6H12O6
+
+	fructose
+
+C6H13NO
+
+	N-ethylmorpholine
+
+C6H13NO2
+
+	aminocaproic acid
+
+C6H14
+
+	hexane
+
+C6H14N2O2
+
+	lysine
+
+C6H14N4O2
+
+	arginine
+
+CHH5FO2
+
+	4-fluorobenzoic acid
+
+C7H5NO4
+
+	quinolinic acid
+
+C7H5NS2
+
+	2-mercaptobenzothiazole
+
+C7H5N3O2
+
+	7-nitroindazole
+
+C7H6N2
+
+	7-azaindole
+
+C7H6O2
+
+	benzoic acid
+
+C7H6O3
+
+	salicylic acid
+
+C7H6O4
+
+	protocatechuic acid
+
+C7H6O5
+
+	gallic acid
+
+C7H7BO4
+
+	4-carboxyphenylboronic acid
+
+C7H7NO2
+
+	4-aminobenzoic acid
+
+C7H7NO3
+
+	mesalazine
+
+C7H7N3
+
+	benomyl metabolite
+
+C7H8
+
+	toluene
+
+C7H8ClN3O4S2
+
+	hydrochlorothiazide
+
+C7H8N4O2
+
+	theophylline
+
+C7H9BO2
+
+	4-methylphenylboronic acid
+
+C7H9BO3
+
+	4-boronoanisole
+
+C7H10N2
+
+	4-dimethylaminopyridine
+
+C7H16
+
+	heptane
+
+C8H5F3N2OS
+
+	riluzole
+
+C8H5NO2
+
+	isatin
+
+C8H6BrN
+
+	5-bromoindole
+
+C8H6ClN
+
+	4-chloroindole
+
+C8H6Cl2O3
+
+	2,4-dichlorophenoxyacetic acid
+
+C8H6N2O
+
+	4-quinazolinol
+
+C8H6N2O2
+
+	indazolium-3-carboxylate
+
+C8H7N
+
+	indole
+
+C8H7NO
+
+	indol-4-ol
+
+C8H8
+	cubane
+
+C8H8N2OS
+
+	2-amino-6-methoxybenzothiazole
+
+C8H8O3
+
+	4-hydroxyphenylacetic acid
+
+C8H8O4
+
+	vanillic acid
+
+C8H9NO2
+
+	acetaminophen
+
+C8H9NO2
+
+	aminomethylbenzoic acid
+
+C8H9NO2
+
+	hydroxydanaidal
+
+C8H9NO2
+
+	methyl anthranilate
+
+C8H10N4O2
+
+	caffeine
+
+C8H11NO
+
+	tyramine
+
+C8H11N5O3
+
+	aciclovir
+
+C8H18
+
+	octane
+
+C9H6BrN
+
+	4-bromoisoquinoline
+
+C9H6N2
+
+	5-cyanoindole
+
+C9H6O3
+
+	umbelliferone
+
+C9H7NO
+
+	8-hydroxyquinoline
+
+C9H7NO2
+
+	indole-2-carboxylic acid
+
+C9H8N2
+
+	5-aminoisoquinoline
+
+C9H8O2
+
+	cinnamic acid
+
+C9H8O3
+
+	coumaric acids
+
+C9H8O4
+
+	acetylsalicylic acid
+
+C9H9N
+
+	methylketol
+
+C9H9NO
+
+	4-methoxyindole
+
+C9H9NO3
+
+	hippuric acid
+
+C9H10O3
+
+	paeonol
+
+C9H11NO2
+
+	phenylanine
+
+C9H11NO3
+
+	tyrosine
+
+C9H11NO4
+
+	L-DOPA
+
+C9H17NO2
+
+	gabapentin
+
+C9H18N2O2
+
+	1-boc-piperazine
+
+C9H20
+
+	nonane
+
+C10H7NO2
+
+	quinaldic acid
+
+C10H8
+
+	naphthalene
+
+C10H8O3
+
+	hymecromone
+
+C10H9NO2
+
+	indole-3-acetic acid
+
+C10H9N5O
+
+	kinetin
+
+C10H9NO2
+
+	5-methoxyindole-3-carboxaldehyde
+
+C10H10N2O
+
+	edaravone
+
+C10H10O4
+
+	ferulic acid
+
+C10H11N3O3S
+
+	sulfamethoxazole
+
+C10H12N2
+
+	tryptamine
+
+C10H13N5O4
+
+	adenosine
+
+C10H14O
+
+	mentha spicata herb oil
+
+C10H15ON
+
+	ephedrine
+
+C10H16O
+
+	camphor
+
+C10H17NO3
+
+	boc-4-piperidone
+
+C10H19NO3
+
+	1-boc-4-piperidinol
+
+C10H20N2O2
+
+	boc-4-aminopiperidine
+
+C10H22
+
+	decane
+
+C11H8O2
+
+	menadione
+
+C11H11NO2
+
+	3-indolepropionic acid
+
+C11H12N2O2
+
+	tryptophan
+
+C11H14N2O
+
+	5-methoxytryptamine
+
+C11H19NO4
+
+	boc-isonipecotic acid
+
+C11H24
+
+	undecane
+
+C12H8O4
+
+	methoxsalen
+
+C12H10
+
+	biphenyl
+
+C12H10ClN2O5S
+
+	furosemide
+
+C12H11N5
+
+	6-benzylaminopurine
+
+C12H15NO
+
+	1-benzyl-4-piperidone
+
+C12H22O11
+
+	maltose
+C12H13NO2
+
+	indole-3-butyric acid
+
+C12H18O
+
+	propofol
+
+C12H26
+
+	dodecane
+
+C13H10O
+
+	benzophenone
+
+C13H12F2N6O
+
+	fluconazole
+
+C13H12O
+
+	ß-ionone
+
+C13H12O2
+
+	monobenzene
+
+C13H16N2O2
+
+	melatonin
+
+C13H18O2
+
+	ibuprofen
+
+C13H28
+
+	tridecane
+
+C14H10
+
+	anthracene
+
+C14H10O14
+
+	benzoyl peroxide
+
+C14H12O3
+
+	resveratrol
+
+C14H18N2O5
+
+	aspartame
+
+C14H18N4O3
+
+	trimethoprim
+
+C14H30
+
+	tetradecane
+
+C15H10O4
+
+	daidzein
+
+C15H10O5
+
+	apigenin
+
+C15H10O6
+
+	luteolin
+
+C15H10O7
+
+	quercetin
+
+C15H12N2O
+
+	carbamazepine
+
+C15H12N2O2
+
+	phenytoin
+
+C15H32
+
+	pentadecane
+
+C16H28N2O6Zn
+
+	zinc acexamate
+
+C16H34
+
+	hexadecane
+
+C17H14F3N3O2S
+
+	celecoxib
+
+C17H18N2O6
+
+	nifedipine
+
+C17H19N3O3S
+
+	omeprazole
+
+C17H36
+
+	heptadecane
+
+C18H27NO3
+
+	capsaicin
+
+C18H32O2
+
+	linoleic acid
+
+C18H36O2
+
+	stearic acid
+
+C18H38
+
+	octadecane
+
+C19H16ClNO4
+
+	indometacin
+
+C19H40
+
+	nonadecane
+
+C20H24O2N2
+
+	quinine
+
+C20H28O2
+
+	tretinoin
+
+C20H42
+
+	eicosane
+
+C21H36N7O16P3S
+
+	Coenzyme A
+
+C21H30O2
+
+	tetrahydrocannabinol
+
+C22H23ClN2O2
+
+	loratadine
+
+C164H256Na2O68S2
+
+	maitotoxin
+
+CaAl2O4
+
+	calcium aluminate
+
+CaB6
+
+	calcium boride
+
+CaBr2
+
+	calcium bromide
+
+Ca(CN)2
+
+	calcium cyanide
+
+CaCO3
+
+	calcium carbonate
+
+CaC2
+
+	calcium carbide
+
+Ca(CHO2)2
+
+	calcium formate
+
+Ca(C2H3O2)2
+
+	calcium acetate
+
+CaC2O4
+
+	calcium oxalate
+
+CaCN2
+
+	calcium cyanamide
+
+CaCl2
+
+	calcium chloride
+
+Ca(ClO)2
+
+	calcium hypochlorite
+
+Ca(ClO3)2
+
+	calcium chlorate
+
+Ca(ClO4)2
+
+	calcium perchlorate
+
+CaF2
+
+	calcium fluoride
+
+CaH2
+
+	calcium hydride
+
+Ca(H2PO2)2
+
+	calcium hypophosphite
+
+Ca(HS)2
+
+	calcium hydrosulfide
+
+CaI2
+
+	calcium iodide
+
+Ca(IO3)2
+
+	calcium iodate
+
+CaMoO4
+
+	calcium molybdate
+
+Ca(NO2)2
+
+	calcium nitrite
+
+Ca(NO3)2
+
+	calcium nitrate
+
+Ca(NO3)2 · 4H2O
+
+	Calcium nitrate tetrahydrate
+
+Ca(NbO3)2
+
+	calcium metaniobate
+
+CaO
+
+	calcium oxide
+
+Ca(OH)2
+
+	calcium hydroxide
+
+CaO2
+
+	calcium peroxide
+
+CaP
+
+	calcium monophosphide
+
+CaS
+
+	calcium sulfide
+
+CaSO3
+
+	calcium sulfite
+
+CaSO4
+
+	calcium sulfate
+
+CaSO4·0.5H2O
+
+	calcium sulfate hemihydrate
+
+CaSe
+
+	calcium selenide
+
+CaSeO3
+
+	calcium selenite
+
+CaSeO4
+
+	calcium selenate
+
+CaSiO3
+
+	calcium metasilicate
+
+CaTe
+
+	calcium telluride
+
+CaTeO3
+
+	calcium tellurite
+
+CaTeO4
+
+	calcium tellurate
+
+CaTiO3
+
+	calcium titanate
+
+Ca(VO3)2
+
+	calcium metavanadate
+
+Ca(VO4)2
+
+	calcium orthovanadate
+
+CaWO4
+
+	calcium tungstate
+
+Ca3N2
+
+	calcium nitride
+
+Ca3P2
+
+	calcium phosphide
+
+Ca5(PO4)3F
+
+	calcium fluorophosphate
+
+CdBr2
+
+	cadmium bromide
+
+Cd(CN)2
+
+	cadmium cyanide
+
+CdCO3
+
+	cadmium carbonate
+
+Cd(C2H3O2)2
+
+	cadmium acetate
+
+CdC2O4
+
+	cadmium oxalate
+
+CdCl2
+
+	cadmium chloride
+
+CdCrO4
+
+	cadmium chromate
+
+CdF2
+
+	cadmium fluoride
+
+CdI2
+
+	cadmium iodide
+
+Cd(IO3)2
+
+	cadmium iodate
+
+CdMoO4
+
+	cadmium molybdate
+
+Cd(NO3)2
+
+	cadmium nitrate
+
+Cd(N3)2
+
+	cadmium azide
+
+CdO
+
+	cadmium oxide
+
+Cd(OH)2
+
+	cadmium hydroxide
+
+CdS
+
+	cadmium sulfide
+
+CdSO3
+
+	cadmium sulfite
+
+CdSO4
+
+	cadmium sulfate
+
+CdSb
+
+	cadmium antimonide
+
+CdSe
+
+	cadmium selenide
+
+CdSeO3
+
+	cadmium selenite
+
+CdSiO3
+
+	cadmium metasilicate
+
+Cd(TaO3)2
+
+	cadmium metatantalate
+
+CdTe
+
+	cadmium telluride
+
+CdTeO4
+
+	cadmium tellurate
+
+CdTiO3
+
+	cadmium titanate
+
+CdWO4
+
+	cadmium tungstate
+
+CdZrO3
+
+	cadmium metazirconate
+
+Cd2Nb2O7
+
+	cadmium niobate
+
+Cd3As2
+
+	cadmium arsenide
+
+Cd3P2
+
+	cadmium phosphide
+
+Cd3(PO4)2
+
+	cadmium phosphate
+
+CeB6
+
+	cerium boride
+
+CeBr3
+
+	cerium bromide
+
+CeC
+
+	cerium carbide
+
+CeCl3
+
+	cerium chloride
+
+CeF3
+
+	cerium fluoride
+
+CeF4
+
+	cerium fluoride
+
+CeI2
+
+	cerium iodide
+
+CeI3
+
+	cerium iodide
+
+CeN
+
+	cerium nitride
+
+CeO2
+
+	cerium oxide
+
+CeS
+
+	cerium sulfide
+
+Ce(SO4)2
+
+	cerium sulfate
+
+CeSi2
+
+	cerium silicide
+
+Ce2C3
+
+	cerium carbide
+
+Ce2O3
+
+	cerium oxide
+
+Ce2S3
+
+	cerium sulfide
+
+CF4
+
+	Tetrafluoromethane
+
+ClF
+
+	chlorine fluoride
+
+ClF3
+
+	chlorine trifluoride
+
+ClF5
+
+	chlorine pentafluoride
+
+ClOClO3
+
+	chlorine perchlorate
+
+ClO2
+
+	chlorine dioxide
+
+ClO3F
+
+	chlorine trioxide fluoride
+
+Cl2
+
+	chlorine
+
+Cl2O3
+
+	chlorine trioxide
+
+Cl2O6
+
+	chlorine hexoxide
+
+Cl2O7
+
+	chlorine heptoxide
+
+Cl2O8
+
+	Chlorine octaoxide
+
+CoAl2O4
+
+	cobalt aluminate
+
+CoAs
+
+	cobalt arsenide
+
+CoAs2
+
+	cobalt arsenide
+
+CoB
+
+	cobalt boride
+
+CoBr2
+
+	cobalt bromide
+
+Co(CN)2
+
+	cobalt cyanide
+
+Co(C2H3O2)2
+
+	cobalt acetate
+
+Co(C2H3O2)3
+
+	cobalt acetate
+
+CoC2O4
+
+	cobalt oxalate
+
+Co(ClO4)2
+
+	cobalt perchlorate
+
+CoCl2
+
+	cobalt chloride
+
+CoCrO4
+
+	cobalt chromate
+
+CoCr2O4
+
+	cobalt chromite
+
+CoF2
+
+	cobalt fluoride
+
+CoF3
+
+	cobalt fluoride
+
+Co(IO3)2
+
+	cobalt iodate
+
+CoI2
+
+	cobalt iodide
+
+CoMoO4
+
+	cobalt molybdate
+
+Co(NO3)2
+
+	cobalt nitrate
+
+Co(NO3)3
+
+	cobalt nitrate
+
+CoO
+
+	cobalt oxide
+
+Co(OH)2
+
+	cobalt hydroxide
+
+Co(OH)3
+
+	cobalt hydroxide
+
+CoS
+
+	cobalt sulfide
+
+CoS2
+
+	cobalt disulfide
+
+CoSb
+
+	cobalt antimonide
+
+CoSe
+
+	cobalt selenide
+
+CoSeO3
+
+	cobalt selenite
+
+CoTe
+
+	cobalt telluride
+
+CoTiO3
+
+	cobalt titanate
+
+CoWO4
+
+	cobalt(II) tungstate
+
+Co2B
+
+	cobalt boride
+
+Co2SO4
+
+	cobalt sulfate
+
+Co2S3
+
+	cobalt sulfide
+
+Co2SiO4
+
+	cobalt orthosilicate
+
+Co2SnO4
+
+	cobalt stannate
+
+Co2TiO4
+
+	cobalt titanite
+
+Co3(AsO4)2
+
+	cobalt arsenate
+
+Co3(Fe(CN)6)2
+
+	cobalt ferricyanide
+
+CrBr2
+
+	chromium bromide
+
+CrBr3
+
+	chromium bromide
+
+CrCl2
+
+	chromium chloride
+
+CrCl3
+
+	chromium chloride
+
+CrCl4
+
+	chromium chloride
+
+CrF2
+
+	chromium fluoride
+
+CrF3
+
+	chromium fluoride
+
+CrF4
+
+	chromium fluoride
+
+CrF5
+
+	chromium fluoride
+
+CrF6
+
+	chromium fluoride
+
+CrI2
+
+	chromium iodide
+
+CrI3
+
+	chromium iodide
+
+Cr(NO3)3
+
+	chromium nitrate
+
+Cr(NO2)3
+
+	chromium nitrite
+
+Cr(OH)3
+
+	chromium hydroxide
+
+CrO2
+
+	chromium oxide
+
+CrO3
+
+	chromium oxide
+
+CrO4(2-)
+
+	chromate ion
+
+CrO2Cl2
+
+	chromium oxychloride
+
+CrPO4
+
+	chromium phosphate
+
+CrSb
+
+	chromium antimonide
+
+CrVO4
+
+	chromium orthovanadate
+
+Cr2O3
+
+	chromium oxide\eskolaite
+
+Cr2(SO4)3
+
+	chromium sulfate
+
+Cr2S3
+
+	chromium sulfide
+
+Cr2Se3
+
+	chromium selenide
+
+Cr2(TeO4)3
+
+	chromium tellurate
+
+Cr2Te3
+
+	chromium telluride
+
+Cr3As2
+
+	chromium arsenide
+
+Cr3C2
+
+	chromium carbide
+
+Cr3Sb2
+
+	chromium antimonide
+
+Cr3Si2
+
+	chromium silicide
+
+CsBO2
+
+	caesium borate
+
+CsBr
+
+	caesium bromide
+
+CsBrO3
+
+	caesium bromate
+
+CsBr3
+
+	caesium tribromide
+
+CsCN
+
+	caesium cyanide
+
+CsC2H3O2
+
+	caesium acetate
+
+CsCl
+
+	caesium chloride
+
+CsClO
+
+	caesium hypochlorite
+
+CsClO2
+
+	caesium chlorite
+
+CsClO3
+
+	caesium chlorate
+
+CsClO4
+
+	caesium perchlorate
+
+CsF
+
+	caesium fluoride
+
+CsHS
+
+	caesium hydrosulfide
+
+CsI
+
+	caesium iodide
+
+CsI3
+
+	caesium triiodide
+
+CsNH2
+
+	caesium amide
+
+CsNO2
+
+	caesium nitrite
+
+CsNO3
+
+	caesium nitrate
+
+CsN3
+
+	caesium azide
+
+CsNbO3
+
+	caesium metaniobate
+
+CsOH
+
+	caesium hydroxide
+
+CsO2
+
+	caesium superoxide
+
+Cs2O2
+
+	caesium peroxide
+
+Cs2S
+
+	caesium sulfide
+
+CsSCN
+
+	caesium thiocyanate
+
+CsSeO4
+
+	caesium selenate
+
+CsTaO3
+
+	caesium metatantalate
+
+Cs2CO3
+
+	caesium carbonate
+
+CsHCO3
+
+	caesium bicarbonate
+
+CsHSO3
+
+	caesium bisulfite
+
+CsHSO4
+
+	caesium bisulfate
+
+Cs2C2O4
+
+	caesium oxalate
+
+Cs2CrO4
+
+	caesium chromate
+
+Cs2Cr2O7
+
+	caesium dichromate
+
+Cs2HPO4
+
+	caesium hydrogen orthophosphate
+
+Cs2MoO4
+
+	caesium molybdate
+
+Cs2O
+
+	caesium oxide
+
+Cs2SO3
+
+	caesium sulfite
+
+Cs2SO4
+
+	caesium sulfate
+
+Cs2SiO3
+
+	caesium metasilicate
+
+Cs2TeO4
+
+	caesium tellurate
+
+Cs2TiO3
+
+	caesium titanate
+
+caesium
+
+	metatitanate
+
+Cs2WO4
+
+	caesium orthotungstate
+
+Cs3PO4
+
+	caesium orthophosphate
+
+Cs3VO4
+
+	caesium orthovanadate
+
+CuBr
+
+	copper bromide
+
+Cu(BrO3)2 · 6H2O
+
+	copper bromate hexahydrate
+
+CuBr2
+
+	copper bromide
+
+CuC2O4
+
+	copper oxalate
+
+Cu(CH3COO)2
+
+	copper acetate
+
+CuCl
+
+	copper chloride
+
+Cu(ClO3)2 · 6H2O
+
+	copper chlorate hexahydrate
+
+CuCl2
+
+	copper chloride
+
+CuF
+
+	copper fluoride
+
+CuF2
+
+	copper fluoride
+
+CuFeS2
+
+	copper iron sulfide
+
+CuFe2O4
+
+	copper(II) iron oxide
+
+CuFe2S3
+
+	copper iron sulfide
+
+[Cu(H2O)4]SO4·H2O
+
+	blue vitriol
+
+CuI
+
+	copper iodide
+
+CuIO3
+
+	copper iodate
+
+Cu(IO3)2
+
+	copper iodate
+
+CuMoO4
+
+	copper orthomolybdate
+
+Cu(NO3)2
+
+	copper nitrate
+
+Cu(NO3)2·3H2O
+
+	copper nitrate trihydrate
+
+Cu(NO3)2·6H2O
+
+	copper nitrate hexahydrate
+
+Cu(NbO3)2
+
+	copper orthoniobate
+
+CuO
+
+	copper oxide
+
+Cu2O
+
+	copper oxide
+
+Cu(OH)2
+
+	copper hydroxide
+
+Cu(OH)2CO3
+
+	Verdigris
+
+CuS
+
+	copper sulfide
+
+CuSCN
+
+	copper thiocyanate
+
+CuSO4
+
+	copper sulfate
+
+CuSO4 · 5H2O
+
+	copper sulfate pentahydrate
+
+CuSe
+
+	copper selenide
+
+CuSeO3 · 2H2O
+
+	copper selenite dihydrate
+
+CuSeO4 · 5H2O
+
+	copper selenate pentahydride
+
+CuSiO3
+
+	copper metasilicate
+
+CuTe
+
+	copper telluride
+
+CuTeO3
+
+	copper tellurite
+
+CuTiO3
+
+	copper metatitanate
+
+Cu(VO3)2
+
+	copper metavanadate
+
+CuWO4
+
+	copper orthotungstate
+
+Cu2CO3(OH)2
+
+	malachite
+
+Cu2S
+
+	copper sulfide
+
+Cu2Se
+
+	copper selenide
+
+Cu2Te
+
+	copper telluride
+
+Cu3As
+
+	copper arsenide
+
+Cu3P
+
+	copper phosphide
+
+Cu3(PO4)2
+
+	copper phosphate
+
+Cu3Sb
+
+	copper antimonide
+
+Cu9S5
+
+	copper sulfide
+
+DBr
+
+	deuterium bromide| 81.9181 g/mol
+
+DI
+
+	deuterium iodide|128.918572 ± 0.000030 g/mol
+
+DLi
+
+	lithium deuteride|7.95 g/mol|colorless to gray solid
+
+DNa
+
+	sodium deuteride|25.003871058 g/mol
+
+D2O
+
+	deuterium oxide|20.0276 g/mol|Very pale blue, transparent liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Heavy-water-3D-vdW.svg/100px-Heavy-water-3D-vdW.svg.png
+
+D3O
+
+	trideuterium oxide| 22.04171 g/mol
+
+DyBr3
+
+	dysprosium bromide|402.2120 g/mol
+
+DyCl2
+
+	dysprosium chloride|233.4060 g/mol
+
+DyCl3
+
+	dysprosium chloride|268.8590 g/mol|white solid
+
+DySi2
+
+	dysprosium silicide|218.6710 g/mol
+
+Dy2O3
+
+	dysprosium oxide|372.998 g/mol|White powder.
+
+Dy2S3
+
+	dysprosium sulfide|421.1950 g/mol
+
+ErF
+
+	erbium monofluoride|186.2574 g/mol
+
+ErF2
+
+	erbium difluoride|205.2558 g/mol
+
+ErF3
+
+	erbium trifluoride|224.2542 g/mol
+
+ErI3
+
+	erbium triiodide|547.9724 g/mol
+
+ErI4Na
+
+	erbium sodium tetraiodide|697.8666 g/mol
+
+ErO
+
+	erbium monoxide|183.2584 g/mol
+
+EuF
+
+	europium monofluoride|170.9624 g/mol
+
+EuF3
+
+	europium trifluoride|208.9592 g/mol
+
+EuI2
+
+	europium diiodide|405.7729 g/mol
+
+EuNbO2
+
+	europium niobium dioxide|276.8692 g/mol
+
+EuNb2O6
+
+	europium diniobium hexaoxide|433.7732 g/mol
+
+EuO
+
+	europium monoxide|167.9634 g/mol
+
+EuO2V
+
+	monoeuropium monovandium dioxide|234.9043 g/mol
+
+EuO3Ti
+
+	europium titanium trioxide|247.8292 g/mol
+
+EuO3V
+
+	europium metavanadate|250.9037 g/mol
+
+EuO4W
+
+	europium tungsten tetraoxide|399.8016 g/mol
+
+EuS
+
+	europium monosulfide|184.0290 g/mol
+
+EuS2
+
+	europium disulfide|216.0940 g/mol
+
+Eu2O
+
+	dieuropium monoxide|319.9274 g/mol
+
+Eu2O2
+
+	dieuropium dioxide|335.9268 g/mol
+
+Eu2S
+
+	dieuropium monosulfide|335.9930 g/mol
+
+Eu2S2
+
+	dieuropium disulfide|368.0580 g/mol
+
+F2Fe
+
+	iron fluoride|93.84 g/mol|colorless transparent crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rutile-unit-cell-3D-balls.png/200px-Rutile-unit-cell-3D-balls.png
+
+FGa
+
+	gallium monofluoride|88.7214 g/mol
+
+FGaO
+
+	gallium monofluoride monoxide|104.7208 g/mol
+
+FGd
+
+	gadolinium monofluoride|176.2484 g/mol
+
+FGe
+
+	germanium monofluoride|91.6384 g/mol
+
+FHo
+
+	holmium monofluoride|183.928723 g/mol
+
+FI
+
+	iodine monofluoride|145.903 g/mol|https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Iodine-monofluoride-2D.png/100px-Iodine-monofluoride-2D.png
+
+FI2
+
+	monofluorodiiodine|272.807343 g/mol
+
+FIn
+
+	indium monofluoride|133.8164 g/mol
+
+FLa
+
+	lanthanum monofluoride|157.903873 g/mol
+
+FLi
+
+	lithium fluoride|25.9394 g/mol
+
+FLiO
+
+	lithium hypofluorite|41.9388 g/mol
+
+FLi2
+
+	dilithium monofluoride|32.8804 g/mol
+
+FMg
+
+	magnesium monofluoride|43.30340 g/mol
+
+FMn
+
+	monomanganese monofluoride|73.9364482 g/mol
+
+FMnO3
+
+	manganese fluoride trioxide|121.93465 g/mol
+
+FMo
+
+	molybdenum monofluoride|114.9584 g/mol
+
+FN
+
+	fluoroimidogen|33.00510 g/mol
+
+FNO
+
+	nitrosyl fluoride|49.00450 g/mol|Colourless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Nitrosyl-fluoride-2D-dimensions.png/100px-Nitrosyl-fluoride-2D-dimensions.png
+
+FNO2
+
+	nitryl fluoride|65.00390 g/mol||https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Nitryl-fluoride-2D-dimensions.png/100px-Nitryl-fluoride-2D-dimensions.png 
+
+FNO3
+
+	fluorine nitrate|81.0033 g/mol||https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Fluorine-nitrate-2D.png/260px-Fluorine-nitrate-2D.png
+
+FNS
+
+	thiazyl fluoride|65.07 g/mol|colourless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Thiazyl-fluoride-2D-dimensions.png/200px-Thiazyl-fluoride-2D-dimensions.png
+
+FNa
+
+	sodium fluoride|41.988173 g/mol|White to greenish solid
+
+FNa2
+
+	disodium monofluoride|64.97794176
+
+FNd
+
+	neodymium monofluoride|163.2404 g/mol
+
+FO
+
+	oxygen monofluoride|34.99780 g/mol
+
+FOTh
+
+	thorium monofluoride monoxide|267.03586 g/mol
+
+FOTi
+
+	titanium fluoride oxide|82.8648 g/mol
+
+FO2
+
+	dioxygen monofluoride|50.99720 g/mol
+
+FO3S
+
+	fluorosulfate radical|99.0616 g/mol
+
+FP
+
+	phosphorus monofluoride|49.9721652 g/mol
+
+FPS
+
+	phosphenothious fluoride|82.0372 g/mol
+
+FPS2
+
+	phosphenodithioic fluoride|114.1022 g/mol
+
+FPb
+
+	lead monofluoride|226.1984 g/mol
+
+FPu
+
+	plutonium monofluoride|257.0479631 g/mol
+
+FRb
+
+	rubidium fluoride|104.46620 g/mol|white crystalline solid
+
+FS
+
+	monosulfur monofluoride|51.0634 g/mol
+
+FSc
+
+	scandium monofluoride|63.9543152 g/mol
+
+FSm
+
+	samarium monofluoride|169.3584 g/mol
+
+FSn
+
+	tin monofluoride|137.7084 g/mol
+
+FSr
+
+	strontium monofluoride|106.6184 g/mol
+
+FTh
+
+	thorium monofluoride|251.036463 g/mol
+
+FTi
+
+	titanium fluoride|66.8654 g/mol
+
+FTl
+
+	thallium monofluoride|223.3817 g/mol|White crystals
+
+FW
+
+	tungsten monofluoride|202.8384 g/mol
+
+FXe
+
+	xenon monofluoride|150.2914 g/mol
+
+FY
+
+	yttrium monofluoride|107.904253 g/mol
+
+FZr
+
+	zirconium fluoride|167.21 g/mol|white crystalline powder|https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kristallstruktur_Uran%28IV%29-fluorid.png/200px-Kristallstruktur_Uran%28IV%29-fluorid.png
+
+F2
+
+	fluorine|37.9968064
+
+F2Fe
+
+	ferrous fluoride|93.8418 g/mol
+
+F2Ga
+
+	gallium difluoride|107.7198 g/mol
+
+F2Gd
+
+	gadolinium difluoride|195.2468 g/mol
+
+F2Ge
+
+	germanium difluoride|110.61 g/mol|White orthorhombic 
+
+F2GeO
+
+	difluorogermanone|126.6362 g/mol
+
+F2Hg
+
+	mercury fluoride|238.587 g/mol|white cubic crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Mercury%28II%29-fluoride-xtal-3D-sticks.png/200px-Mercury%28II%29-fluoride-xtal-3D-sticks.png
+
+F2Hg2
+
+	mercury fluoride|439.177 g/mol|yellow cubic crystals
+
+F2Ho
+
+	holmium difluoride|202.927126 g/mol
+
+F2IP
+
+	difluoroiodophosphine|195.875038 g/mol
+
+F2K2
+
+	dipotassium difluoride|116.19341 g/mol
+
+F2Kr
+
+	krypton difluoride|121.79 g/mol|Colourless crystals (solid)|https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Krypton-difluoride-2D-dimensions.png/121px-Krypton-difluoride-2D-dimensions.png
+
+F2La
+
+	lanthanum difluoride|176.902276 g/mol
+
+F2Li2
+
+	lithium fluoride|25.939(2) g/mol|white powder or transparent crystals
+
+F2Mg
+
+	magnesium fluoride|62.3018 g/mol|white tetragonal crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rutile-unit-cell-3D-balls.png/200px-Rutile-unit-cell-3D-balls.png
+
+F2Mn
+
+	manganese difluoride|92.9348514 g/mol
+
+F2Mo
+
+	molybdenum difluoride|133.9568 g/mol
+
+F2MoO2
+
+	molybdenum difluoride dioxide|165.9556 g/mol
+
+F2N
+
+	difluoroamino radical|52.00351 g/mol
+
+F2N2O
+
+	nitrosodifluoroamine|82.00961 g/mol
+
+F2Na2
+
+	disodium difluoride|83.9763450 g/mol
+
+F2Nd
+
+	neodymium difluoride|182.2388 g/mol
+
+F2Ni
+
+	nickel difluoride|96.6902 g/mol|Yellowish to green tetragonal crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Nickel%28II%29-fluoride-unit-cell-3D-balls.png/200px-Nickel%28II%29-fluoride-unit-cell-3D-balls.png
+
+F2O
+
+	oxygen difluoride|53.9962 g/mol|colorless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Oxygen-difluoride-2D.png/160px-Oxygen-difluoride-2D.png
+
+F2OS
+
+	thionyl fluoride|86.06 g/mol|colorless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/SOF2.png/150px-SOF2.png
+
+F2OSi
+
+	difluorooxosilane|82.08171 g/mol 
+
+F2OTi
+
+	titanium fluoride oxide|101.8632 g/mol
+
+F2O2
+
+	perfluoroperoxide|69.996 g/mol|orange as a solid|https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Fluorine_dioxide.svg/100px-Fluorine_dioxide.svg.png
+
+F2O2S
+
+	sulfuryl fluoride|102.06 g/mol|colourless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Sulfuryl-fluoride-2D-dimensions.png/120px-Sulfuryl-fluoride-2D-dimensions.png
+
+F2O2W
+
+	tungsten difluoride dioxide|253.8356 g/mol
+
+F2O5S3
+
+	peroxydisulfuryl difluoride|214.1888 g/mol
+
+F2P
+
+	phosphorus difluoride|68.9705684 g/mol
+
+F2Pb
+
+	lead difluoride|245.20 g/mol|white powder|https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/CaF2_polyhedra.png/200px-CaF2_polyhedra.png
+
+F2Pt
+
+	platinum difluoride|233.0808 g/mol
+
+F2Pu
+
+	plutonium difluoride|276.0463663 g/mol
+
+F2S
+
+	sulfur difluoride|70.062 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sulfur-difluoride-2D-dimensions.png/100px-Sulfur-difluoride-2D-dimensions.png
+
+F2SW
+
+	tungsten difluoride monosulfide|253.9018 g/mol
+
+F2S2
+
+	difluorodisulfane|102.1268 g/mol
+
+F2S2
+
+	thiothionyl fluoride|102.1268 g/mol
+
+F2S2
+
+	thiothionyl fluoride|102.1268 g/mol
+
+F2S2W
+
+	tungsten difluoride disulfide|285.9668 g/mol
+
+F2Sc
+
+	scandium difluoride|82.9527184 g/mol
+
+F2Se
+
+	selenium difluoride|116.9568 g/mol
+
+F2Si
+
+	difluorosilylene|66.08231 g/mol
+
+F2Sn
+
+	tin difluoride| 156.7068 g/mol
+
+F2Sr
+
+	strontium fluoride|125.62 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Fluorite-unit-cell-3D-ionic.png/200px-Fluorite-unit-cell-3D-ionic.png
+
+F2Th
+
+	thorium difluoride|270.034866
+
+F2Ti
+
+	titanium difluoride|85.8638 g/mol
+
+F2Tl2
+
+	dithallium difluoride|446.76341 g/mol
+
+F2W
+
+	tungsten difluoride|221.8368 g/mol
+
+F2Xe
+
+	xenon difluoride|169.29 g/mol|White solid|https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Xenon-difluoride-3D-vdW.png/200px-Xenon-difluoride-3D-vdW.png
+
+F2Y
+
+	yttrium difluoride|126.902656 g/mol
+
+F2Zn
+
+	zinc difluoride|103.406 g/mol|white needles|https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Zinc-fluoride-3D-balls.png/200px-Zinc-fluoride-3D-balls.png
+
+F2Zr
+
+	zirconium fluoride|167.21 g/mol|white crystalline powder|https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kristallstruktur_Uran%28IV%29-fluorid.png/200px-Kristallstruktur_Uran%28IV%29-fluorid.png
+
+F3Fe
+
+	iron trifluoride|112.840 g/mol|pale green crystals||
+
+F3Ga
+
+	gallium trifluoride|126.718 g/mol|white powder
+
+F3Gd
+
+	gadolinium trifluoride|214.2452 g/mol
+
+F3Ho
+
+	holmium trifluoride|221.925530 g/mol
+
+F3La
+
+	lanthanum trifluoride|195.900680g/mol
+
+F3Li3
+
+	trilithium trifluoride|77.8182 g/mol
+
+F3Lu
+
+	lutetium trifluoride|231.96201 g/mol
+
+F3Mn
+
+	manganese trifluoride|111.938 g/mol|purple-pink powder
+
+F3Mo
+
+	molybdenum trifluoride|152.9552 g/mol
+
+F3MoO
+
+	molybdenum trifluoride oxide|168.9546 g/mol
+
+F3MoS
+
+	molybdenum trifluoride sulfide|185.0202 g/mol
+
+F3N
+
+	nitrogen trifluoride|71.00 g/mol|colorless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Nitrogen-trifluoride-2D-dimensions.png/150px-Nitrogen-trifluoride-2D-dimensions.png
+
+F3NO
+
+	nitrogen trifluoride oxide|87.00131 g/mol
+
+F3NO2S
+
+	difluoroaminosulfonyl fluoride|135.0657 g/mol
+
+F3NO3S
+
+	difluoraminooxysulfonyl fluoride|151.0651 g/mol
+
+F3NS
+
+	thiazyl trifluoride|103.07 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Thiazyl-trifluoride-2D-dimensions.png/150px-Thiazyl-trifluoride-2D-dimensions.png
+
+F3NaSn
+
+	sodium trifluorostannate|198.6950 g/mol
+
+F3Nd
+
+	neodymium trifluoride|201.2372 g/mol
+
+F3OP
+
+	phosphoryl fluoride|103.9684 g/mol|Clear, colourless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Phosphoryl_fluoride.svg/100px-Phosphoryl_fluoride.svg.png
+
+F3OTa
+
+	tantalum monoxide trifluoride|253.94249 g/mol
+
+F3OV
+
+	vanadium trifluoride oxide|123.93611 g/mol
+
+F3P
+
+	phosphorus trifluoride|87.968971 g/mol|colorless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Phosphorus-trifluoride-2D-dimensions.png/100px-Phosphorus-trifluoride-2D-dimensions.png
+
+F3PS
+
+	thiophosphoryl fluoride|120.035 g/mol|Colorless gas or liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Thiophosphoryl_fluoride.svg/105px-Thiophosphoryl_fluoride.svg.png
+
+F3Pr
+
+	praseodymium trifluoride|197.902860 g/mol
+
+F3Pu
+
+	plutonium trifluoride|301.00 g/mol|Violet, opaque crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Kristallstruktur_Lanthanfluorid.png/244px-Kristallstruktur_Lanthanfluorid.png
+
+F3Rh
+
+	rhodium fluoride|159.900710 g/mol
+
+F3S
+
+	sulfur trifluoride|89.06 g/mol
+
+F3SW
+
+	tungsten trifluoride monosulfide|272.9002 g/mol
+
+F3Sb
+
+	antimony trifluoride|178.76 g/mol|light gray to white crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Antimony-trifluoride-2D.png/100px-Antimony-trifluoride-2D.png
+
+F3Sc
+
+	scandium fluoride|101.95112 g/mol|bright white powder
+
+F3Si
+
+	trifluorosilyl radical|85.08071 g/mol
+
+F3Sm
+
+	samarium trifluoride|207.36 g/mol|Yellow odorless powder|https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kristallstruktur_Yttrium%28III%29-fluorid.png/200px-Kristallstruktur_Yttrium%28III%29-fluorid.png
+
+F3Tb
+
+	terbium trifluoride|215.920560 g/mol
+
+F3Th
+
+	thorium trifluoride|289.033270 g/mol
+
+F3Ti
+
+	titanium trifluoride|104.862 g/mol|violet to purple-red powder
+
+F3Tl
+
+	thallium trifluoride|261.37851 g/mol
+
+F3Tm
+
+	thulium trifluoride|225.929420 g/mol
+
+F3W
+
+	tungsten trifluoride|240.8352 g/mol
+
+
+F3Y
+
+	yttrium trifluoride|145.90 g/mol|white powder|https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kristallstruktur_Yttrium%28III%29-fluorid.png/200px-Kristallstruktur_Yttrium%28III%29-fluorid.png
+
+F3Yb
+
+	ytterbium trifluoride|230.04 g/mol|white crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Kristallstruktur_Yttrium%28III%29-fluorid.png/200px-Kristallstruktur_Yttrium%28III%29-fluorid.png
+
+F3Zr
+
+	zirconium trifluoride|148.2192 g/mol
+
+F4Ge
+
+	germanium tetrafluoride|148.634 g/mol|colourless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Germanium_tetrafluoride.svg/200px-Germanium_tetrafluoride.svg.png
+
+F4Ge2
+
+	digermanium tetrafluoride|221.2736 g/mol
+
+F4Hf
+
+	hafnium fluoride|254.4836 g/mol
+
+F4Mg2
+
+	dimagnesium tetrafluoride|124.6036 g/mol
+
+F4Mg2
+
+	magnesium fluoride|62.3018 g/mol|white tetragonal crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Rutile-unit-cell-3D-balls.png/200px-Rutile-unit-cell-3D-balls.png
+
+F4Mo
+
+	molybdenum tetrafluoride|291.71 g/mol|green crystals
+
+F4MoO
+
+	molybdenum tetrafluoride oxide|187.9530 g/mol
+
+F4MoS
+
+	molybdenum tetrafluoride monosulfide|204.0186 g/mol
+
+F4N2
+
+	tetrafluorohydrazine|104.01 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tetrafluorohydrazine-2D.png/200px-Tetrafluorohydrazine-2D.png
+
+F4Na2Sn
+
+	disodium tetrafluorostannate|240.6832 g/mol
+
+F4OOs
+
+	osmium oxide tetrafluoride|282.2230 g/mol
+
+F4OP2
+
+	diphosphorus tetrafluoride oxide|153.94054 g/mol
+
+F4ORe
+
+	rhenium tetrafluoride oxide|278.2000 g/mol
+
+F4OS
+
+	sulfur tetrafluoride oxide|124.0580 g/mol|colorless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Sulfur_oxytetrafluoride.png/200px-Sulfur_oxytetrafluoride.png
+
+F4OW
+
+	tungsten tetrafluoride oxide|275.8330 g/mol
+
+F4OXe
+
+	xenon tetrafluoride oxide|223.2860 g/mol
+
+F4P2
+
+	diphosphorus tetrafluoride|137.9411368 g/mol
+
+F4Pb
+
+	lead tetrafluoride|283.1936 g/mol
+
+F4Pt
+
+	platinum tetrafluoride|271.0776 g/mol|red-orange solid|https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/PtF4solid.tif/lossless-page1-320px-PtF4solid.tif.png
+
+F4Pu
+
+	plutonium tetrafluoride|320 g/mol|reddish-brown monoclinic crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kristallstruktur_Uran%28IV%29-fluorid.png/200px-Kristallstruktur_Uran%28IV%29-fluorid.png
+
+F4S
+
+	sulfur tetrafluoride|108.07 g/mol|colorless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Sulfur-tetrafluoride-2D-dimensions.png/200px-Sulfur-tetrafluoride-2D-dimensions.png
+
+F4SW
+
+	tungsten tetrafluoride monosulfide|291.8986 g/mol
+
+F4Se
+
+	selenium tetrafluoride|154.954 g/mol|colourless liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Selenium-tetrafluoride-gas-3D-balls.png/200px-Selenium-tetrafluoride-gas-3D-balls.png
+
+F4Si
+
+	silicon tetrafluoride|104.0791 g/mol|colourless gas, fumes in moist air|https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Silicon-tetrafluoride-2D-dimensions.png/200px-Silicon-tetrafluoride-2D-dimensions.png
+
+F4Sn2
+
+	ditin tetrafluoride|313.4136 g/mol
+
+F4Ti
+
+	titanium fluoride|123.8606 g/mol
+
+F4U
+
+	uranium tetrafluoride|314.02 g/mol|Green crystalline solid|https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kristallstruktur_Uran%28IV%29-fluorid.png/200px-Kristallstruktur_Uran%28IV%29-fluorid.png
+
+F4W
+
+	tungsten tetrafluoride|259.8336128 g/mol|Red-Brown or Black Solid
+
+F4Xe
+
+	xenon tetrafluoride|207.2836 g/mol|White solid
+
+F4Zr
+
+	zirconium tetrafluoride|167.21 g/mol|white crystalline powder|https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Kristallstruktur_Uran%28IV%29-fluorid.png/200px-Kristallstruktur_Uran%28IV%29-fluorid.png
+
+F5I
+
+	iodine pentafluoride|221.89 g/mol|colorless or pale yellow liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Iodine-pentafluoride-gas-2D-dimensions.png/100px-Iodine-pentafluoride-gas-2D-dimensions.png
+
+F5Mo
+
+	molybdenum pentafluoride|190.952 g/mol|yellow crystals
+
+F5ORe
+
+	rhenium monoxide pentafluoride|297.1984 g/mol
+
+F5P
+
+	phosphorus pentafluoride|125.966 g/mol|colourless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Phosphorus-pentafluoride-2D-dimensions.png/200px-Phosphorus-pentafluoride-2D-dimensions.png
+
+F5Pu
+
+	plutonium pentafluoride|333.0415759 g/mol
+
+F5S
+
+	disulfur decafluoride|127.0570 g/mol|colorless liquid
+
+F5Sb
+
+	antimony pentafluoride|216.74 g/mol|colorless oily liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Antimony-pentafluoride-2D.png/100px-Antimony-pentafluoride-2D.png
+
+F5Ta
+
+	tantalum pentafluoride|	275.95 g/mol|white powder
+
+F5U
+
+	uranium pentafluoride|333.02 g/mol
+
+F5W
+
+	tungsten |278.8320 g/mol
+
+F6Fe2
+
+	diiron hexafluoride|225.6804 g/mol
+
+F6La2
+
+	lanthanum trifluoride dimer|391.80136 g/mol
+
+F6Mo
+
+	molybdenum hexafluoride|209.93 g/mol|white crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Molybdenum%28VI%29-fluoride.svg/150px-Molybdenum%28VI%29-fluoride.svg.png
+
+F6NP3
+
+	nitridotriphosphorous hexafluoride|220.91841 g/mol
+
+F6Os
+
+	osmium hexafluoride|304.22 g/mol|yellow crystalline solid|https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Osmium%28VI%29-fluoride.svg/200px-Osmium%28VI%29-fluoride.svg.png
+
+F6Pu
+
+	plutonium hexafluoride|357.99 g/mol|https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Plutonium_hexafluoride.svg/121px-Plutonium_hexafluoride.svg.pngDark red, opaque crystals|
+
+F6Re
+
+	rhenium hexafluoride|300.20 g/mol|yellow crystalline solid|https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Rhenium%28VI%29-fluoride.svg/200px-Rhenium%28VI%29-fluoride.svg.png
+
+F6S
+
+	sulfur hexafluoride|146.06 g/mol|Colorless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sulfur-hexafluoride-2D-dimensions.png/100px-Sulfur-hexafluoride-2D-dimensions.png
+
+F6Se
+
+	selenium hexafluoride|192.9534 g/mol|colourless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Selenium-hexafluoride-2D.png/100px-Selenium-hexafluoride-2D.png
+
+F6Si2
+
+	hexafluorodisilane|170.16142 g/mol
+
+F6Sn3
+
+	tritin hexafluoride|470.1204 g/mol
+
+F6Te
+
+	tellurium hexafluoride|241.590 g/mol|colorless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Tellurium-hexafluoride-dimensions-2D.png/100px-Tellurium-hexafluoride-dimensions-2D.png
+
+F6U
+
+	uranium hexafluoride|352.02 g/mol|colorless solid|https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Uranium-hexafluoride-2D-V2.svg/144px-Uranium-hexafluoride-2D-V2.svg.png
+
+F6W
+
+	tungsten hexafluoride|297.830 g/mol|Colorless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Wolframhexafluorid.svg/100px-Wolframhexafluorid.svg.png
+
+F6Xe
+
+	xenon hexafluoride|245.28 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Xenonhexafluorid.svg/100px-Xenonhexafluorid.svg.png
+
+F7I
+
+	iodine fluoride|259.90 g/mol|colorless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Iodine-heptafluoride-2D-dimensions.png/200px-Iodine-heptafluoride-2D-dimensions.png
+
+F7NS
+
+	pentafluorosulfanyldifluoroamine|179.0605 g/mol
+
+F7Re
+
+	rhenium heptafluoride|319.196 g/mol|Bright yellow crystalline solid
+
+F8Si3
+
+	octafluorotrisilane|236.24373 g/mol
+
+F10Mo2
+
+	molybdenum fluoride|381.9040 g/mol
+
+F10S2
+
+	sulfur fluoride|254.1 g/mol|colorless liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Disulfur-decafluoride-2D-dimensions.png/210px-Disulfur-decafluoride-2D-dimensions.png
+
+F15Mo3
+
+	molybdenum fluoride|572.8560 g/mol
+
+FeAsS
+
+	iron arsenic sulfide\arsenopyrite|162.8316 g/mol
+
+FeBr2
+
+	iron bromide|215.65 g/mol|yellow-brown solid|https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Cadmium-iodide-3D-layers.png/200px-Cadmium-iodide-3D-layers.png
+
+FeBr3
+
+	iron(III) bromide|295.56 g/mol|brown solid
+
+FeBr3·6H2O
+
+	iron(III) bromide hexahydrate||403.6487 g/mol
+
+FeCO3
+
+	siderite|115.8539 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/SideriteBresil2.jpg/240px-SideriteBresil2.jpg
+
+FeC2O4
+
+	iron oxalate|143.86 g/mol|yellow powder|https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Fe%28C2O4%29-2D-ionic.png/200px-Fe%28C2O4%29-2D-ionic.png
+
+FeC5O5
+
+	iron pentacarbonyl|195.90 g/mol|straw-yellow liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Fe%28CO%295.png/150px-Fe%28CO%295.png
+
+FeC10H10
+
+	dicyclopentadienyl iron|186.04 g/mol|light orange powder
+
+FeCl2
+
+	iron(II) chloride|126.751 g/mol|solid 
+
+FeCl3
+
+	iron(III) chloride|162.2 g/mol|green-black by reflected light
+
+FeCr2O4
+
+	chromite|223.8348 g/mol|https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Chromite.jpg/240px-Chromite.jpg
+
+FeF2·4H2O
+
+	iron(II) fluoride tetrahydrate|165.9029 g/mol
+
+FeI
+
+	iron monoiodide|182.7495 g/mol
+
+FeI2
+
+	iron(II) iodide|309.6539 g/mol
+
+FeI2·4H2O
+
+	iron(II) iodide tetrahydrate| 381.7151 g/mol
+
+FeI3
+
+	iron(III) iodide|436.5584 g/mol
+
+FeMoO4
+
+	iron(II) orthomolybdate|215.8026 g/mol
+
+FeO
+
+	iron monoxide|71.8444 g/mol|black crystals
+
+FeO2
+
+	iron dioxide|87.8438 g/mol
+
+FeO2H
+
+	goethite|88.8517 g/mol
+
+FeO2H·nH2O
+
+	limonite|---|https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/LimoniteUSGOV.jpg/240px-LimoniteUSGOV.jpg
+
+Fe(OH)2
+
+	iron hydroxide|89.86 g/mol|green solid
+
+Fe(OH)3
+
+	iron hydroxide|106.8670 g/mol|dark orange
+
+FeO4S
+
+	ferrous sulfate|151.91 g/mol|White crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Fe%28H2O%296SO4.png/235px-Fe%28H2O%296SO4.png 
+
+FeO8H4P2
+
+	iron dihydrogen phosphate|249.8195 g/mol
+
+FeP
+
+	iron phosphide|86.8188 g/mol
+
+FeS
+
+	iron sulfide|87.910 g/mol|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Iron%28II%29-sulfide-unit-cell-3D-balls.png/200px-Iron%28II%29-sulfide-unit-cell-3D-balls.png
+
+FeS2
+
+	iron sulfide|119.9750 g/mol
+
+FeSe
+
+	iron selenide|134.81 g/mol|black crystals
+
+FeTe
+
+	iron telluride|183.4450 g/mol
+
+FeTiO3
+
+	iron metatitanate|151.7102 g/mol
+
+FeVO4
+
+	iron orthovanadate|170.7841 g/mol
+
+FeWO4
+
+	iron orthotungstate|303.6826 g/mol
+
+FeZrO3
+
+	iron metazirconate|195.0672 g/mol
+
+Fe2I2
+
+	diiron diiodide|365.4989 g/mol
+
+Fe2I4
+
+	diiron tetraiodide|619.3079 g/mol
+
+Fe2O3
+
+	iron oxide|159.69 g/mol|Red-brown solid|https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Haematite-unit-cell-3D-balls.png/200px-Haematite-unit-cell-3D-balls.png
+
+Fe2(SO4)3
+
+	ferric sulfate|399.88 g/mol|grayish-white crystals
+
+Fe2O12W3
+
+	iron orthotungstate|855.2028 g/mol
+
+Fe2P
+
+	diiron phosphide|142.6638 g/mol
+
+Fe2SiO4
+
+	fayalite|203.7731 g/mol
+
+Fe3O4
+
+	Magnetite|231.5326 g/mol
+
+Fe3P
+
+	iron(tri) phosphide|198.5088 g/mol
+
+Fe7Si8O22(OH)2
+
+	grunerite|1001.6005 g/mol
+
+GaAs
+
+	gallium arsenide|144.645 g/mol|Very dark red|https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Gallium-arsenide-unit-cell-3D-balls.png/244px-Gallium-arsenide-unit-cell-3D-balls.png
+
+GaAsO4
+
+	gallium orthoarsenate|208.6422 g/mol
+
+GaBr3
+
+	gallium bromide|309.435 g/mol|white powder
+
+Ga(C2H3O2)3
+
+	gallium( acetate| 246.8551 g/mol
+
+GaCl2
+
+	gallium chloride|140.6290 g/mol
+
+GaCl3
+
+	gallium trichloride|176.07 g/mol|colorless crystals
+
+GaI2
+
+	gallium iodide|323.5319 g/mol
+
+GaI3
+
+	gallium iodide|450.436 g/mol|light yellow powder
+
+GaN
+
+	gallium nitride|83.73 g/mol|yellow powder|https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/GaN_Wurtzite_polyhedra.png/200px-GaN_Wurtzite_polyhedra.png
+
+Ga(OH)3
+
+	gallium hydroxide|120.7437 g/mol
+
+GaPO4
+
+	gallium orthophosphate|164.6944 g/mol
+
+GaSb
+
+	gallium) antimonide|191.483 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Sphalerite-unit-cell-3D-balls.png/200px-Sphalerite-unit-cell-3D-balls.png
+
+GaTe
+
+	gallium telluride|197.32 g/mol|black pieces
+
+Ga2O3
+
+	gallium oxide|187.444 g/mol|white crystalline powder
+
+Ga2(SO4)3·18H2O
+
+	gallium sulfate octadecahydrate|751.9088 g/mol
+
+Ga2S3
+
+	gallium sulfide|235.644 g/mol|yellow
+
+Ga2Te3
+
+	gallium(III) telluride|522.25 g/mol|cubic crystals
+
+GeBr4
+
+	germanium(IV) bromide|392.2560 g/mol
+
+GeH3COOH
+
+	2-germaacetic acid|120.6813 g/mol
+
+GeI2
+
+	germanium(II) iodide|326.4489 g/mol
+
+GeI4
+
+	germanium(IV) iodide|580.2579 g/mol
+
+GeO
+
+	germanium(II) oxide|88.6394 g/mol
+
+HAt
+
+	hydrogen astatide|211.01 g/mol
+
+HBr
+
+	hydrogen bromide|80.91 g/mol|colorless/faint yellow liquid
+
+HBrO2
+
+	bromous acid|112.911 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Bromige_saeure.png/200px-Bromige_saeure.png
+
+HBrO3
+
+	bromic acid|128.91 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Bromic_acid.svg/150px-Bromic_acid.svg.png
+
+C2H2
+
+	acetylene\ethyne|26.04 g/mol|Colorless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Acetylene-CRC-IR-dimensions-2D.png/150px-Acetylene-CRC-IR-dimensions-2D.png
+
+HCN
+
+	hydrocyanic acid|27.0253 g/mol|liquid or colorless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Hydrogen-cyanide-2D.svg/200px-Hydrogen-cyanide-2D.svg.png
+
+CH3NO
+
+	methanamide|45.04 g/mol|Colorless|https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Formamide-2D.png/200px-Formamide-2D.png
+
+HCOO(-)
+
+	formate ion|---|---|https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Formate.svg/150px-Formate.svg.png
+
+HCOOH
+
+	methanoic acid|46.03 g/mol|https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Formic_acid.svg/100px-Formic_acid.svg.png
+
+CH3NO
+
+	Formamide|45.04 g/mol|Colorless, oily liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Formamide-2D.png/200px-Formamide-2D.png
+
+HCO3(-)
+
+	hydrogen carbonate ion|61.0168 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Bicarbonate-resonance.png/121px-Bicarbonate-resonance.png
+
+HC3H5O3
+
+	lactic acid|90.0779 g/mol|https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Lactic-acid-skeletal.svg/110px-Lactic-acid-skeletal.svg.png
+
+C5H6N(+)
+
+	pyridinium ion|80.11 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Pyridinium.svg/80px-Pyridinium.svg.png
+
+HC6H7O6
+
+	ascorbic acid|176.1241 g/mol|https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/L-Ascorbic_acid.svg/220px-L-Ascorbic_acid.svg.png
+
+C9H8O4
+
+	acetylsalicylic acid|180.157 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Aspirin-skeletal.svg/100px-Aspirin-skeletal.svg.png
+
+HC12H17ON4SCl2
+
+	thiamine hydrochloride|	265.35 g/mol
+
+HCl
+
+	hydrochloric acid|36.4609 g/mol|Colorless, transparent liquid
+
+HClO
+
+	hypochlorous acid|52.46 g/mol|Colorless aqueous solution|https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hypochlorous-acid-2D-dimensions.svg/150px-Hypochlorous-acid-2D-dimensions.svg.png
+
+HClO2
+
+	chlorous acid|68.46 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Chlorous-acid-2D.png/200px-Chlorous-acid-2D.png
+
+HClO3
+
+	chloric acid|84.45914 g/mol|colourless solution|https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Chloric-acid-2D.png/200px-Chloric-acid-2D.png
+
+HClO4
+
+	perchloric acid|100.46 g/mol|colorless liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Perchloric-acid-2D-dimensions.png/100px-Perchloric-acid-2D-dimensions.png
+
+HDO
+
+	semiheavy water|19.0214 g/mol|Very pale blue, transparent liquid
+HF
+
+	hydrofluoric acid|20.006343 g/mol|Colorless solution
+
+HI
+
+	hydroiodic acid|127.91 g/mol|colorless liquid
+
+HIO
+
+	hypoiodous acid|143.89 g/mol
+
+HIO3
+
+	iodic acid|175.91 g/mol|White solid|https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Iodic-acid-2D.png/200px-Iodic-acid-2D.png
+
+HNO
+
+	nitroxyl|31.01 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hyponitrous-acid-3D-balls.png/121px-Hyponitrous-acid-3D-balls.png
+
+HNO2
+
+	nitrous acid|47.013 g/mol|Pale blue solution|https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Nitrous_acid_acsv.svg/200px-Nitrous_acid_acsv.svg.png
+
+HNO3
+
+	nitric acid|63.01 g/mol|colorless, yellow or red fuming liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Nitric-acid-resonance-A.png/200px-Nitric-acid-resonance-A.png
+
+HN3
+
+	hydrazoic acid|43.03 g/mol|colorless, highly volatile liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Hydrogen-azide-2D-dimensions.png/200px-Hydrogen-azide-2D-dimensions.png
+
+HOBr
+
+	hypobromous acid|96.911 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Hypobromous_acid.png/200px-Hypobromous_acid.png
+
+HOCl
+
+	hypochlorous acid|52.46 g/mol|Colorless aqueous solution|https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Hypochlorous-acid-2D-dimensions.svg/150px-Hypochlorous-acid-2D-dimensions.svg.png
+
+HOF
+
+	hypofluorous acid|36.0057 g/mol|pale yellow liquid above −117 °C,white solid below −117 °C
+
+C2H2O4
+
+	oxalic acid|90.03 g/mol|White crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Oxals%C3%A4ure3.svg/140px-Oxals%C3%A4ure3.svg.png
+
+HPO4(2-)
+
+	hydrogen phosphate ion
+
+HSO3(-)
+
+	hydrogen sulfite ion
+
+HSO4(-)
+
+	hydrogen sulfate
+
+H2
+
+	Hydrogen|2.01588|colorless
+
+C3H3N
+
+	acrylonitrile|53.06 g/mol|Colourless liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Acrylonitrile-2D.png/100px-Acrylonitrile-2D.png
+
+H2CO
+
+	formaldehyde|30.03 g/mol|Colorless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Formaldehyde-2D.svg/100px-Formaldehyde-2D.svg.png
+
+H2CO3
+
+	carbonic acid|62.03 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Carbonic-acid-2D.svg/100px-Carbonic-acid-2D.svg.png
+
+H2CSO
+
+	sulfine|62.0910 g/mol
+
+H2C2O4
+
+	oxalic acid|90.03 g/mol|White crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Oxals%C3%A4ure3.svg/140px-Oxals%C3%A4ure3.svg.png
+
+C4H6O6
+
+	tartaric acid|150.087 g/mol|white powder|https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Tartaric_acid.svg/200px-Tartaric_acid.svg.png
+
+C8H6O4
+
+	phthalic acid|166.14 g/mol|white solid|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Phthalic-acid-2D-skeletal.png/150px-Phthalic-acid-2D-skeletal.png
+
+H2CrO4
+
+	chromic acid|118.01 g/mol|Dark red crystals
+
+C2H5NO2
+
+	glycine|75.07 g/mol|white solid|https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Glycine-zwitterion-2D-skeletal.svg/120px-Glycine-zwitterion-2D-skeletal.svg.png
+
+H2N2O2
+
+	hyponitrous acid|62.0282 g/mol|white crystals
+
+H4N2
+
+	hydrazine|32.0452 g/mol|Colorless, fuming, oily liquid
+
+H2O
+
+	Dihydrogen oxide|18.01528 g/mol
+
+H2O2
+
+	hydrogen peroxide|34.0147 g/mol|Very light blue color;colorless in solution|https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Wasserstoffperoxid.svg/100px-Wasserstoffperoxid.svg.png
+
+H2PO4(-)
+
+	dihydrogen phosphate ion
+
+H2S
+
+	hydrogen sulfide|34.08 g/mol|Colorless gas|https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Hydrogen-sulfide-2D-dimensions.svg/170px-Hydrogen-sulfide-2D-dimensions.svg.png
+
+H2SO3
+
+	sulfurous acid|82.07 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Sulfurous-acid-2D-pyramidal.png/150px-Sulfurous-acid-2D-pyramidal.png
+
+H2SO4
+
+	Sulfuric acid|98.079 g/mol|Clear, colorless liquid
+
+H2S2O2
+
+	thiosulfurous acid|98.14668 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Thioschweflige_S%C3%A4ure.svg/150px-Thioschweflige_S%C3%A4ure.svg.png
+
+H2S2O3
+
+	thiosulfuric acid|114.14 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Thioschwefels%C3%A4ure.svg/150px-Thioschwefels%C3%A4ure.svg.png
+
+H2S2O4
+
+	dithionous acid|130.144 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Dithionous_acid.svg/100px-Dithionous_acid.svg.png
+
+H2S2O5
+
+	disulfurous acid|146.14 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Dischweflige_S%C3%A4ure.svg/140px-Dischweflige_S%C3%A4ure.svg.png
+
+H2S2O6
+
+	dithionic acid|162.14 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Dithionic-acid-2D.png/200px-Dithionic-acid-2D.png
+
+H2S2O7
+
+	disulfuric acid|178.14168 g/mol
+
+H2S2O8
+
+	peroxydisulfuric acid|194.13 g/mol|Colourless solid|https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Peroxodischwefels%C3%A4ure.svg/200px-Peroxodischwefels%C3%A4ure.svg.png
+
+H2SeO3
+
+	selenous acid|128.97 g/mol|white hygroscopic crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Selenous-acid-2D.png/150px-Selenous-acid-2D.png
+
+H2SeO4
+
+	selenic acid|144.9734 g/mol|Colorless deliquescent crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Selenic-acid-2D.png/100px-Selenic-acid-2D.png
+
+H2SiO3
+
+	silicic acid|96.11 g/mol
+
+H2TeO3
+
+	tellurous acid|177.616 g/mol|colorless crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Tellurous_Acid.png/200px-Tellurous_Acid.png
+
+
+H2TiO3
+
+	titanic acid|115.896 g/mol|White crystals
+
+H3AsO4
+
+	arsenic acid|141.94 g/mol|White translucent crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Arsenate.svg/150px-Arsenate.svg.png
+
+C3H8
+
+	propane|44.10 g/mol|Colorless gas
+
+H3N(+)CH2COO(-)
+
+	zwitterion
+
+H3O(+)
+
+	hydronium ion|19.02 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Hydroxonium-cation.svg/100px-Hydroxonium-cation.svg.png
+
+H3PO2
+
+	hypophosphorous|66.00 g/mol|colorless, deliquescent crystals or oily liquid|https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Hypophosphorous-acid-2D.png/100px-Hypophosphorous-acid-2D.png
+
+H3PO3
+
+	phosphorous acid|82.00 g/mol|white solid|https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Phosphonic-acid-2D-dimensions.png/100px-Phosphonic-acid-2D-dimensions.png
+
+H3PO4
+
+	phosphoric acid|97.99 g/mol|white solid or colourless|https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Phosphoric-acid-2D-dimensions.png/150px-Phosphoric-acid-2D-dimensions.png 
+
+H4XeO6
+
+	perxenic acid|231.3212 g/mol
+
+H6TeO6
+
+	telluric acid|229.64 g/mol|White monoclinic crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Telluric_acid.svg/150px-Telluric_acid.svg.png
+
+HfBr4
+
+	hafnium bromide|498.1060 g/mol|colorless solid
+
+HfF4
+
+	hafnium fluoride|254.4836 g/mol
+
+HfOCl2·8H2O
+
+	hafnium oxychloride octahydrate|409.5176 g/mol
+
+HfOH(C2H3O2)3
+
+	hafnium acetate|372.6294 g/mol
+
+Hf(SO4)2
+
+	hafnium sulfate|370.6152 g/mol
+
+Hg(BrO3)2·2H2O
+
+	mercury bromate dihydrate| 492.4250 g/mol
+
+Hg2Br2
+
+	mercury bromide|560.99 g/mol|white to yellow tetragonal crystals
+
+HgBr2
+
+	mercury bromide|360.41 g/mol|white solid
+
+C4H6O4Hg
+
+	mercury acetate|318.678 g/mol|white-yellow crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Mercury%28II%29-acetate-from-xtal-1973-2D.png/256px-Mercury%28II%29-acetate-from-xtal-1973-2D.png
+
+Hg(C7H5O2)2·H2O
+
+	mercury benzoate monohydrate|460.8321 g/mol
+
+HgClO4·4H2O
+
+	mercury perchlorate tetrahydrate|372.1017 g/mol
+
+Hg(ClO4)2·3H2O
+
+	mercury perchlorate trihydrate|453.5370 g/mol
+HgCl2
+
+	mercury chloride|271.52 g/mol|colorless or white solid
+
+Hg(IO3)2
+
+	mercury iodate|550.3953 g/mol
+
+HgI2
+
+	mercury iodide|454.40 g/mol|orange-red powder
+
+Hg(NO3)2·H2O
+
+	mercury nitrate monohydrate|342.6151 g/mol
+
+C2N2O2Hg
+
+	mercury fulminate|284.624 g/mol|Grey, Pale Brown, or White Crystalline solid
+
+HgO
+
+	mercury oxide|216.59 g/mol|Yellow or red solid
+
+Hg(OH)2
+
+	mercury dihydroxide|234.605 g/mol
+
+HgS
+
+	mercury sulfide|232.66 g/mol
+
+Hg(SCN)2
+
+	mercury thiocyanate|316.755 g/mol|White monoclinic powder|https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Mercury_thiocyanate.png/200px-Mercury_thiocyanate.png
+
+HgSe
+
+	mercury selenide|279.55 g/mol|grey-black solid
+
+HgSeO3
+
+	mercury selenite|327.5482 g/mol
+
+HgTe
+
+	mercury telluride|328.19 g/mol|near black cubic crystals
+
+HgTeO3
+
+	mercury tellurite|376.1882 g/mol
+
+HgWO4
+
+	mercury tungstate|448.4276 g/mol
+
+Hg2Br2
+
+	mercury bromide|560.99 g/mol|white to yellow tetragonal crystals
+
+Hg2Cl2
+
+	mercury chloride|472.09 g/mol|White solid
+
+Hg2I2
+
+	mercury iodide|654.99 g/mol|	Dark yellow, opaque crystals
+
+Hg3(AsO4)2
+
+	mercury orthoarsenate|879.6084 g/mol
+
+Hg3(PO4)2
+
+	mercury phosphate|791.7127 g/mol
+
+IBr
+
+	iodine bromide|206.8085 g/mol
+
+IBr3
+
+	iodine bromide|366.6165 g/mol
+
+ICl
+
+	Iodine monochloride|162.35 g/mol|blue and yellow|https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Iodine-monochloride-2D.png/100px-Iodine-monochloride-2D.png
+
+ICl3
+
+	iodine chloride|466.5281 g/mol|yellow solid
+
+IO3(-)
+
+	iodate ion
+
+I2
+
+	iodine|253.808940 g/mol
+
+I2O5
+
+	iodine pentoxide|333.81 g/mol|white crystalline solid
+
+I3(-)
+
+	triiodide ion
+
+InAs
+
+	indium |189.740 g/mol
+
+InBr
+
+	indium bromide|194.722 g/mol
+
+InBrI2
+
+	indium bromodiiodide|448.5309 g/mol
+
+InBr2I
+
+	indium dibromoiodide|401.5305 g/mol
+
+InBr3
+
+	indium bromide|354.530 g/mol|yellow-white
+
+InCl
+
+	indium chloride|150.2710 g/mol
+
+InCl2
+
+	indium chloride|185.7240 g/mol
+
+InCl3
+
+	indium chloride|221.18 g/mol|white flakes
+
+InCl3·4H2O
+
+	indium chloride tetrahydrate|293.2381 g/mol
+
+InI
+
+	indium iodide|241.7225 g/mol
+
+In(IO3)3
+
+	indium iodate|639.5260 g/mol
+
+InI2
+
+	indium iodide|368.6269 g/mol
+
+InI3
+
+	indium |495.5314 g/mol
+
+In(OH)3
+
+	indium hydroxide|165.8404 g/mol|white
+
+InP
+
+	indium phosphide|145.792 g/mol|black cubic crystals
+
+InPO4
+
+	indium orthophosphate|209.7894 g/mol
+
+InS
+
+	indium sulfide|146.8830 g/mol
+
+InSb
+
+	indium antimonide|236.58 g/mol|Dark grey, metallic crystals
+
+InTe
+
+	indium telluride|242.4180 g/mol
+
+In2O3
+
+	indium oxide|277.64 g/mol
+
+In2(SO4)3·H2O
+
+	indium sulfate monohydrate|535.8391 g/mol
+
+In2S3
+
+	indium sulfide|325.82 g/mol|red powder
+
+In2Se3
+
+	indium selenide|466.516 g/mol|black crystalline solid
+
+In2Te3
+
+	indium telluride|612.44 g/mol|blue cubic crystals
+
+IrBr3
+
+	iridium bromide|431.9290 g/mol
+
+KAl(SO4)2
+
+	potassium alum|474.3884 g/mol|white small crystals
+
+KBR
+
+	potassium bromide|119.002 g/mol|white solid
+
+KCN
+
+	potassium cyanide|65.12 g/mol|White crystalline solid
+
+KCNS
+
+	potassium thiocyanate|97.181 g/mol|Colorless deliquescent crystals
+
+KCl
+
+	potassium chloride|74.5513 g/mol|white crystalline solid
+
+KClO
+
+	potassium hypochlorite|90.55 g/mol|Liquid light grey
+
+KClO2
+
+	potassium chlorite| 106.5501 g/mol
+
+KClO3
+
+	potassium chlorate|122.55 g/mol|white crystals or powder
+
+KClO4
+
+	potassium perchlorate|138.55 g/mol|white crystalline powder
+
+K2CrO4
+
+	potassium chromate|194.19 g/mol|Yellow powder|https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Potassium_chromate.svg/200px-Potassium_chromate.svg.png
+
+K2Cr2O7
+
+	potassium dichromate|294.185 g/mol|red-orange crystalline solid
+
+K2HPO4
+
+	dipotassium phosphate|174.2 g/mol|white powder|https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Di-potassium_monohydrogen_phosphate.svg/150px-Di-potassium_monohydrogen_phosphate.svg.png
+
+K3PO4
+
+	tripotassium phosphate|212.27 g/mol|White deliquescent powder|https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Tripotassium_phosphate.png/150px-Tripotassium_phosphate.png
+
+KF
+
+	potassium fluoride|58.0967 g/mol|colourless
+
+KHCO3
+
+	potassium bicarbonate|100.115 g/mol|white crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Potassium_bicarbonate.png/200px-Potassium_bicarbonate.png
+
+KHS
+
+	potassium hydrosulfide|72.171 g/mol|white solid
+
+KHSO3
+
+	potassium bisulfite|120.1561 g/mol|White crystalline powder|https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Potassium_bisulfite.svg/180px-Potassium_bisulfite.svg.png
+
+KHSO4
+
+	potassium bisulfate|136.169 g/mol|colorless solid|https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Potassium_bisulfate.png/170px-Potassium_bisulfate.png
+
+KH2PO4
+
+	monopotassium phosphate|136.086 g/mol|White powder
+
+KI
+
+	potassium iodide| 166.00277 g/mol
+
+KMnO4
+
+	potassium permanganate|158.034 g/mol|purplish-bronze-gray needles
+
+KNO3
+
+	potassium nitrate|101.1032 g/mol|white solid
+
+KNO2
+
+	potassium nitrite|85.10379 g/mol|white or slight yellow solid
+
+K2CO3
+
+	potassium carbonate|138.205 g/mol|white, hygroscopic solid
+
+K2MnO4
+
+	potassium manganate|197.132 g/mol|dark green crystals
+
+K2N2O2
+
+	potassium hyponitrite|138.2088 g/mol
+
+K2O
+
+	potassium oxide|94.20 g/mol|Pale yellow solid|https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Potassium-oxide-3D-vdW.png/200px-Potassium-oxide-3D-vdW.png
+
+K2O2
+
+	potassium peroxide|110.196 g/mol|yellow amorphous solid
+
+K2S
+
+	potassium sulfide|110.262 g/mol|pure: colourless;impure: yellow-brown|https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Potassium-sulfide-unit-cell-3D-ionic.png/200px-Potassium-sulfide-unit-cell-3D-ionic.png
+
+K2S2O3
+
+	potassium thiosulfate|190.3248 g/mol
+
+K2S2O5
+
+	potassium metabisulfite|222.31 g/mol|White crystalline powder|https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Potassium-metabisulfite-2D.png/200px-Potassium-metabisulfite-2D.png
+
+K2S2O8
+
+	potassium persulfate|270.322 g/mol|white powder
+
+K2SO3
+
+	potassium sulfite|158.26 g/mol|white solid|https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Potassium_sulfite.png/120px-Potassium_sulfite.png
+
+K2SO4
+
+	potassium sulfate|174.259 g/mol|White solid
+
+KOH
+
+	potassium hydroxide|56.10564 g/mol
+
+KrF2
+
+	krypton difluoride|121.79 g/mol|Colourless crystals (solid)|https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Krypton-difluoride-2D-dimensions.png/121px-Krypton-difluoride-2D-dimensions.png
+
+LaCl3
+
+	lanthanum chloride|245.26 g/mol|white odorless powder
+
+LaPO4
+
+	lanthanum phosphate|233.8768 g/mol
+
+Li(AlSi2O6)
+
+	keatite|186.0899 g/mol
+
+LiBr
+
+	lithium bromide|86.845 g/mol|White solid
+
+LiBr·2H2O
+
+	lithium bromide dihydrate|122.8756 g/mol
+
+LiBrO3
+
+	lithium bromate|134.8432 g/mol
+
+LiCl
+
+	lithium chloride|42.39 g/mol|white solid
+
+LiClO
+
+	lithium hypochlorite|58.39 g/mol
+
+LiClO2
+
+	lithium chlorite|74.3928 g/mol
+
+LiClO3
+
+	lithium chlorate|90.39 g/mol
+
+LiClO4
+
+	lithium perchlorate|106.39 g/mol|white crystals|https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Lithium_perchlorate.png/150px-Lithium_perchlorate.png
+
+LiCN
+
+	lithium cyanide|32.959 g/mol|White Powder
+
+LiC2H5O
+
+	lithium ethoxide|52.0015 g/mol
+
+LiF
+
+	lithium fluoride|25.939 g/mol|white powder or transparent crystals
+
+LiI
+
+	lithium iodide|133.85 g/mol|White crystalline solid
+
+LiHCO3
+
+	lithium bicarbonate|67.9578 g/mol
+
+LiHS
+
+	lithium hydrosulfide|40.0139 g/mol
+
+LiHSO3
+
+	lithium bisulfite|88.0121 g/mol
+
+LiHSO4
+
+	lithium hydrogen sulfate|104.0115 g/mol
+
+LiIO3
+
+	lithium iodate|	181.84 g/mol|White hygroscopic crystals
+
+LiNa
+
+	sodium lithium|29.9308 g/mol
+
+LiNO2
+
+	lithium nitrite|52.9465 g/mol|white, hygroscopic crystals
+
+LiNO3
+
+	lithium nitrate|68.946 g/mol|White to light yellow solid
+
+LiNO3·H2O
+
+	lithium nitrate monohydrate|86.9612 g/mol
+
+LiOH
+
+	lithium hydroxide|23.95 g/mol|hygroscopic white solid
+
+LiTaO3
+
+	lithium tantalate|235.887 g/mol
+
+LiVO3·2H2O
+
+	lithium metavanadate dihydrate|141.9113 g/mol
+
+Li2B4O7·5H2O
+
+	lithium tetraborate pentahydrate|259.1982 g/mol
+
+Li2CO3
+
+	lithium carbonate|73.89 g/mol|Odorless white powder
+
+Li2CrO4
+
+	lithium chromate|129.8757 g/mol
+
+Li2CrO4·2H2O
+
+	lithium chromate dihydrate|165.9063 g/mol
+
+Li2Cr2O7
+
+	lithium dichromate|229.8700 g/mol
+
+Li2MoO4
+
+	lithium orthomolybdate|173.8396 g/mol
+
+Li2NbO3
+
+	lithium metaniobate|154.7866 g/mol
+
+Li2N2O2
+
+	lithium hyponitrite|73.8942 g/mol
+
+Li2O
+
+	lithium oxide|29.88 g/mol|white solid
+
+Li2O2
+
+	lithium peroxide|45.881 g/mol|white powder
+
+Li2S
+
+	lithium sulfide|45.95 g/mol|white solid
+
+Li2SO3
+
+	lithium sulfite|93.943 g/mol
+
+Li2SO4
+
+	lithium sulfate|109.94 g/mol|White crystalline solid|https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Lithium_sulfate.svg/120px-Lithium_sulfate.svg.png
+
+Li2SeO3
+
+	lithium selenite|140.8402 g/mol
+
+Li2SeO4
+
+	lithium selenate|156.8396 g/mol
+
+Li2SiO3
+
+	lithium metasilicate|89.566 g/mol|colorless crystals
+
+Li2TeO3
+
+	lithium tellurite|189.4802 g/mol
+
+Li2TeO4
+
+	lithium tellurate|205.4796 g/mol
+
+Li2TiO3
+
+	lithium metatitanate|109.76 g/mol|Off-white powder
+
+Li2WO4
+
+	lithium orthotungstate|261.7196 g/mol
+
+Li2ZrO3
+
+	lithium metazirconate|153.1042 g/mol
+
+MgBr2
+
+	magnesium bromide|184.113 g/mol|white hygroscopic hexagonal crystals 
+
+Mg(AlO2)2
+
+	magnesium aluminate|142.2657 g/mol
+
+As2Mg3
+
+	magnesium arsenide|222.7582 g/mol
+
+MgCO3
+
+	magnesium carbonate|84.3139 g/mol|white solid|https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Magnesium_carbonate.png/120px-Magnesium_carbonate.png
+
+MgC2O4
+
+	magnesium oxalate|112.324 g/mol|white solid|https://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Magnesium_oxalate.svg/200px-Magnesium_oxalate.svg.png
+
+Mg(ClO)2
+
+	magnesium |127.2098 g/mol
+
+Mg(ClO3)2
+
+	magnesium chlorate|191.2074 g/mol
+
+Mg(ClO3)2·xH2O
+
+	magnesium chlorate hydrate
+
+Mg(ClO4)2
+
+	magnesium perchlorate|223.206 g/mol|white powder|https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Magnesium_perchlorate.png/120px-Magnesium_perchlorate.png
+
+MgCl2
+
+	magnesium chloride|95.211 g/mol|white or colourless
+
+MgCrO4
+
+	magnesium chromate|140.30 g/mol
+
+MgCrO4·5H2O
+
+	magnesium chromate pentahydrate|230.3751 g/mol
+
+MgF2
+
+	magnesium fluoride|62.3018 g/mol|white tetragonal crystals
+
+MgI2
+
+	magnesium iodide|278.1139 g/mol|white crystalline solid
+
+MgMoO4
+
+	magnesium molybdate|184.2626 g/mol
+
+MgNH4PO4·6H2O
+
+	magnesium ammonium phosphate hexahydrate|245.4065 g/mol
+
+Mg(NO2)2
+
+	magnesium nitrite|116.3160 g/mol
+
+Mg(NO3)2
+
+	magnesium nitrate|148.32 g/mol|White crystalline solid|https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Magnesium_nitrate.png/150px-Magnesium_nitrate.png
+
+Mg(NO3)2·6H2O
+
+	magnesium nitrate hexahydrate| 256.4065 g/mol
+
+MgO
+
+	Magnesium oxide|40.3044 g/mol|White powder
+
+Mg(OH)2
+
+	magnesium hydroxide|58.3197 g/mol|White solid
+
+MgPo
+
+	magnesium polonide|233.29 g/mol|greyish|https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Magnesium-polonide-xtal-1960-3D-SF.png/200px-Magnesium-polonide-xtal-1960-3D-SF.png
+
+MgS
+
+	magnesium sulfide|56.38 g/mol|white to reddish brown powder|https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Magnesium-sulfide-3D-ionic.png/200px-Magnesium-sulfide-3D-ionic.png
+
+MgSO3
+
+	magnesium sulfite|104.368200 g/mol 
+
+MgSO4
+
+	magnesium sulfate|120.3676 g/mol
+
+MgSe
+
+	magnesium selenide|103.2650 g/mol
+
+MgSeO3
+
+	magnesium selenite|151.2632 g/mol
+
+MgSeO4
+
+	magnesium selenate|167.2626 g/mol
+
+MgSiO3
+
+	Magnesium metasilicate|100.3887 g/mol
+
+MgTiO3
+
+	magnesium metatitanate|120.1702 g/mol
+
+Mg(VO3)2
+
+	magnesium metavanadate|222.1844 g/mol
+
+MgWO4
+
+	magnesium tungstate|272.1426 g/mol
+
+Mg2Al(AlSiO5)(OH)4
+
+	amesite|278.6849 g/mol
+
+Mg2P2O7
+
+	magnesium pyrophosphate|222.5533 g/mol
+
+Mg2SiO4
+
+	forsterite|140.6931 g/mol
+
+Mg3As2
+
+	magnesium arsenide|222.7582 g/mol
+
+Mg3Bi2
+
+	magnesium bismuthide|490.8758 g/mol
+
+Mg3P2
+
+	magnesium phosphide|134.8625 g/mol
+
+Mg3(Si2O5)(OH)4
+
+	chrysotile|277.11 g/mol|Grey to green 
+
+Mg3(VO4)2
+
+	magnesium orthovanadate|302.7932 g/mol
+
+MnAs
+
+	manganese arsenide|129.859645 g/mol
+
+MnBi
+
+	manganese bismuthide|263.918445 g/mol
+
+MnBr2
+
+	manganese bromide|214.746 g/mol|pink crystalline
+
+MnBr2·4H2O
+
+	manganese bromide tetrahydrate|286.8072 g/mol
+
+Mn(CHO2)2
+
+	manganese formate|144.9729 g/mol
+
+Mn(CHO2)2·2H2O
+
+	manganese formate dihydrate|181.0035 g/mol
+
+MnCO3
+
+	manganese carbonate|114.9469 g/mol|White to faint pink solid
+
+MnCl2
+
+	manganese chloride|125.844 g/mol|pink solid
+
+MnF2
+
+	manganese fluoride|308.747 g/mol|pink crystalline
+
+MnI2
+
+	manganese iodide|214.8956 g/mol
+
+MnMoO4
+
+	manganese orthomolybdate|214.8956 g/mol
+
+Mn(NO3)2
+
+	manganese nitrate|178.95 g/mol|https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Manganese%28II%29_nitrate.svg/200px-Manganese%28II%29_nitrate.svg.png
+
+Mn(NO3)2·4H2O
+
+	manganese nitrate tetrahydrate|251.0090 g/mol
+
+MnO
+
+	manganese oxide|70.9374 g/mol|green crystals or powder
+
+Mn(OH)2
+
+	manganese hydroxide|88.95273 g/mol
+
+MnOOH
+
+	manganite|87.94479 g/mol| 
+
+MnO2
+
+	manganese dioxide|86.9368 g/mol|Brown-black solid
+
+MnO4(-)
+
+	permanganate ion|118.93 g/mol|---|https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Permanganate-anion-2D.png/150px-Permanganate-anion-2D.png
+
+MnPb8(Si2O7)3
+
+	barysilate|2217.0384 g/mol
+
+MnS
+
+	manganese sulfide|87.003 g/mol|Red, green or brown powder
+
+MnTe
+
+	manganese telluride|182.54 g/mol
+
+MnZrO3
+
+	manganese metazirconate|194.1602 g/mol
+
+Mn2O3
+
+	manganese oxide|157.87429 g/mol
+
+Mn3As2
+
+	manganese arsenide|314.657335 g/mol
+
+Mn3O4
+
+	manganese oxide|228.812 g/mol|brownish-black powder
+
+Mn3P2
+
+	manganese phosphide|226.761659 g/mol
+
+Mn3Sb2
+
+	manganese antimonide|408.3341 g/mol
+
+MoBr2
+
+	molybdenum bromide|225.75 g/mol|yellow-red solid
+
+MoBr3
+
+	molybdenum bromide|335.70 g/mol|dark green to black solid
+
+MoCl2
+
+	molybdenum chloride|166.8660 g/mol
+
+MoCl3
+
+	molybdenum chloride|202.30 g/mol|dark red solid
+
+MoCl5
+
+	molybdenum chloride|273.21 g/mol|dark-green solid
+
+MoO2
+
+	molybdenum oxide|127.94 g/mol|brownish-violet solid
+
+MoO4(2-)
+
+	molybdate ion
+
+MoSe2
+
+	molybdenum selenide| 253.8800 g/mol
+
+MoS2
+
+	molybdenum sulfide|160.07 g/mol|black/lead-gray solid
+NH2-
+
+	amide ion
+
+NH2CH2CH2NH2
+
+	ethylenediamine
+
+NH2CONH2
+
+	urea
+
+NH2C6H4SO3H
+
+	sulfanilic Acid
+
+NH2OH
+
+	hydroxylamine
+
+(NH2)2CO
+
+	urea
+
+NH3
+
+	ammonia
+
+NH4+
+
+	ammonium ion
+
+(NH4)3N
+
+	ammonium nitride
+
+NH4Br
+
+	ammonium bromide
+
+NH4CO2NH2
+
+	ammonium carbamate
+
+(NH4)2CO3
+
+	ammonium carbonate
+
+NH4Cl
+
+	ammonium chloride
+
+NH4ClO4
+
+	Ammonium perchlorate
+
+NH4HS
+
+	ammonium hydrosulfide
+
+(NH4)H2AsO4
+
+	ammonium dihydrogen arsenate
+
+NH4NO3
+
+	ammonium nitrate
+
+NH4OCONH2
+
+	ammonium carbamate
+
+(NH4)2Ce(NO3)6
+
+	ammonium cerium nitrate
+
+(NH4)3PO4
+
+	ammonium phosphate
+
+(NH4)2CrO4
+
+	ammonium chromate
+
+(NH4)2Hg(SCN)4
+
+	mercury ammonium thiocyanate
+
+(NH4)2[PtCl6]
+
+	ammonium hexachloroplatinate
+
+(NH4)2[Pt(SCN)6]
+
+	ammonium hexathiocyanoplatinate
+
+(NH4)2SO4
+
+	ammonium sulfate
+
+NI3
+
+	nitrogen triiodide
+
+NO
+
+	nitric oxide
+
+NOCl
+
+	nitrosyl chloride
+
+NOBr
+
+	nitrosyl bromide
+
+NOI
+
+	nitrosyl iodide
+
+NO2
+
+	nitrogen dioxide
+
+NO2(-)
+
+	nitrite ion
+
+NO2Cl
+
+	nitryl chloride
+
+NO3(-)
+
+	nitrate ion
+
+N2
+
+	nitrogen
+
+N2H2
+
+	diazene
+
+N2H4
+
+	hydrazine
+
+N2O
+
+	nitrous oxide
+
+N2O3
+
+	dinitrogen trioxide
+
+N2O4
+
+	dinitrogen tetroxide
+
+N2O5
+
+	dinitrogen pentaoxide
+
+N4H4
+
+	trans-tetrazene
+
+NaAlSi3O3
+
+	albite
+
+NaAsO2
+
+	sodium metaarsenite
+
+NaAu(CN)2
+
+	sodium dicyanoaurate(I)
+
+Na2Cr2O7·2H2O
+
+	Sodium dichromate dihydrate
+
+Na[B(NO3)4]
+
+	sodium tetranitratoborate(III)
+
+NaBr
+
+	sodium bromide
+
+NaCN
+
+	sodium cyanide
+
+NaC6F5COO
+
+	pentafluorobenzoate
+
+NaC6H5COO
+
+	sodium benzoate
+
+NaCa2(Al5Si5O20)·6H2O
+
+	thomsonite
+
+NaCl
+
+        sodium chloride|58.44 g/mol|Colorless crystals
+
+NaClO2
+
+	sodium chlorite
+
+NaClO3
+
+	sodium chlorate
+
+NaClO4
+
+	sodium perchlorate
+
+NaF
+
+	sodium fluoride
+
+NaH
+
+	sodium hydride
+
+NaHCOO
+
+	sodium formate
+
+NaHCO3
+
+	sodium bicarbonate
+
+NaHS
+
+	sodium hydrosulfide
+
+NaHSO3
+
+	sodium bisulfite
+
+NaHSO4
+
+	sodium bisulfate
+
+NaI
+
+	sodium iodide
+
+NaNH2C6H4SO3
+
+	sodium sulfanilate
+
+NaNO2
+
+	sodium nitrite
+
+NaNO3
+
+	sodium nitrate
+
+NaNbO3
+
+	sodium metaniobate
+
+NaNbO3·7H2O
+
+	sodium metaniobate heptahydrate
+
+NaOCl
+
+	sodium hypochlorite
+
+NaOH
+
+	sodium hydroxide
+
+NaO2As(CH3)2·3H2O
+
+	sodium salt of cacodylic acid
+
+NaSeO3
+
+	sodium selenite
+
+NaTaO3
+
+	sodium metatantalate
+
+NaVO3
+
+	sodium metavanadate
+
+Na2CO3
+
+	sodium carbonate\soda ash
+
+Na2C2O4
+
+	sodium oxalate
+
+Na2MoS4
+
+	sodium thiomolybdate
+
+Na2N2O2
+
+	sodium hyponitrite
+
+Na2O2
+
+	sodium peroxide
+
+Na2O
+
+	sodium oxide
+
+Na2S
+
+	sodium monosulfide
+
+Na2SO3
+
+	sodium sulfite
+
+Na2SO4
+
+	sodium sulfate
+
+Na2S2O3
+
+	sodium thiosulfate
+
+Na2S2O5
+
+	sodium disulfite
+
+Na2S2O8
+
+	sodium persulfate
+
+Na2S4
+
+	sodium tetrasulfide
+
+Na2SeO3
+
+	sodium selenite
+
+Na2SeO4
+
+	sodium selenate
+
+Na2TeO3
+
+	sodium tellurite
+
+Na2TeO4
+
+	sodium tellurate
+
+Na2TiO3
+
+	sodium metatitanate
+
+Na2Zn(OH)4
+
+	sodium zincate
+
+Na2ZnO2
+
+	sodium zincate
+
+Na2ZrO3
+
+	sodium metazirconate
+
+Na3AlF6
+
+	cryolite
+
+Na3[Co(CO3)3]
+
+	sodium tricarbonatocobaltate
+
+Na3VO4
+
+	sodium orthovanadate
+
+Na4V2O7
+
+	sodium pyrovanadate
+
+NbBr5
+
+	niobium bromide
+
+NbCl3
+
+	niobium chloride
+
+NbCl5
+
+	niobium chloride
+
+NbI5
+
+	niobium iodide
+
+Nb2O3
+
+	niobium oxide
+
+NdCl2
+
+	neodymium chloride\neodymium dichloride
+
+NdI2
+
+	neodymium iodide
+
+Nd(OH)3
+
+	neodymium hydroxide
+
+Nd2O3
+
+	neodymium oxide
+
+NiAs
+
+	nickel arsenide
+
+NiAsS
+
+	nickel arsenic sulfide
+
+NiBr2
+
+	nickel bromide
+
+NiBr2·3H2O
+
+	nickel bromide trihydrate
+
+NiBr2·6H2O
+
+	nickel bromide hexahydrate
+
+Ni(CO)3
+
+	nickel carbonate
+
+Ni(CO)4
+
+	nickel tetracarbonyl
+
+NiC2O4·2H2O
+
+	nickel oxalate dihydrate
+
+NiCl2
+
+	nickel chloride
+
+NiFe2O4
+
+	nickel iron oxide
+
+NiI2
+
+	nickel iodide
+
+Ni(H2PO)2·6H2O
+
+	nickel hypophosphite hexahydrate
+
+NiMoO4
+
+	nickel orthomolybdate
+
+Ni(NO3)2·6H2O
+
+	nickel nitrate hexahydrate
+
+NiOOH
+
+	nickel oxo-hydroxide
+
+NiO
+
+	nickel oxide
+
+Ni(OH)2
+
+	nickel hydroxide
+
+NiS
+
+	nickel sulfide
+
+NiSO4
+
+	nickel sulfate
+
+NiS2
+
+	nickel sulfide
+
+NiSe
+
+	nickel selenide
+
+NiTiO3
+
+	nickel metatitanate
+
+Ni(VO3)2
+
+	nickel metavanadate
+
+NiWO4
+
+	nickel orthotungstate
+
+Ni2SiO4
+
+	nickel orthosilicate
+
+Ni3(PO4)2
+
+	nickel orthophosphate
+
+Ni3Sb2
+
+	nickel antimonide
+
+O
+	oxygen
+
+O2
+
+	dioxygen
+
+O2(-)
+
+	superoxide ion
+
+O2(2-)
+
+	peroxide ion
+
+OF2
+
+	oxygen difluoride
+
+O2F2
+
+	dioxygen difluoride
+
+OH(-)
+
+	hydroxide ion
+
+O3
+
+	ozone
+
+O3(-)
+
+	ozonide ion
+
+
+P2I4
+
+	diphosphorus tetraiodide
+
+P2O5
+
+	phosphorus pentoxide
+
+P2S3
+
+	diphosphorus trisulfide
+
+P2Se3
+
+	diphosphorus triselenide
+
+P3N5
+
+	triphosphorus pentanitride
+
+PH3
+
+	phosphine
+
+POCl3
+
+	phosphoryl chloride
+
+PbCl2
+
+	lead chloride
+
+PbCl4
+
+	lead chloride
+
+PbI2
+
+	lead iodide
+
+Pb(IO3)2
+
+	lead iodate
+
+Pb(N3)2
+
+	lead nitride
+
+Pb(NO3)2
+
+	lead nitrate
+
+Pb(OH)2
+
+	lead hydroxide
+
+Pb(OH)4
+
+	lead hydroxide
+
+PbC2O4
+
+	lead oxalate
+
+PbCO3
+
+	lead carbonate
+
+PbCrO4
+
+	lead chromate
+
+PbF2
+
+	lead fluoride
+
+PbO
+
+	lead oxide
+
+PbO2
+
+	lead dioxide
+
+PbS
+
+	lead sulfide
+
+PbSO4
+
+	lead sulfate
+
+PoBr2
+
+	polonium dibromide
+
+PoCl2
+
+	polonium dichloride
+
+PoCl4
+
+	polonium tetrachloride
+
+PoF6
+
+	polonium hexafluoride
+
+PoH2
+
+	polonium hydride
+
+PoO
+
+	polonium monoxide
+
+PoO2
+
+	polonium dioxide
+
+PoO3
+
+	polonium trioxide
+
+RaCl2
+
+	radium chloride
+
+RbBr
+
+	rubidium bromide
+
+RbCl
+
+	rubidium chloride
+
+RbClO
+
+	rubidium hypochlorite
+
+RbClO2
+
+	rubidium chlorite
+
+RbClO3
+
+	rubidium chlorate
+
+RbClO4
+
+	rubidium perchlorate
+
+RbCN
+
+	rubidium cyanide
+
+RbF
+
+	rubidium fluoride
+
+RbHS
+
+	rubidium hydrosulfide
+
+RbI
+
+	rubidium iodide
+
+RbOH
+
+	rubidium hydroxide
+
+Rb2O
+
+	rubidium oxide
+
+Rb2O2
+
+	rubidium peroxide
+
+Rb2CO3
+
+	rubidium carbonate
+
+Rb2S
+
+	rubidium sulfide
+
+Rb2SO3
+
+	rubidium sulfite
+
+Rb2SO4
+
+	rubidium sulfate
+
+RbHCO3
+
+	rubidium bicarbonate
+
+RbHSO3
+
+	rubidium bisulfite
+
+RbHSO4
+
+	rubidium bisulfate
+
+RbNO2
+
+	rubidium nitrite
+
+RbNO3
+
+	rubidium nitrate
+
+RnF2
+
+	radon difluoride
+
+RuCl3
+
+	ruthenium chloride
+
+RuF6
+
+	ruthenium hexafluoride
+
+RuO4
+
+	ruthenium tetroxide
+
+SCN(-)
+
+	thiocyanate
+
+SF4
+
+	sulfur tetrafluoride
+
+SF6
+
+	sulfur hexafluoride
+
+SOF2
+
+	thionyl difluoride
+
+SO2
+
+	sulfur dioxide
+
+SO2Cl2
+
+	sulfuryl chloride
+
+SO2F2
+
+	sulfuryl difluoride
+
+SO2OOH-
+
+	peroxymonosulfurous acid
+
+SO3
+
+	sulfur trioxide
+
+SO3(2-)
+
+	sulfite ion
+
+SO4(2-)
+
+	sulfate ion
+
+S2Br2
+
+	sulfur bromide
+
+S2O3(2-)
+
+	thiosulfate ion
+
+S2O7(2-)
+
+	disulfate ion
+
+SbBr3
+
+	antimony bromide
+
+SbCl3
+
+	antimony chloride
+
+SbCl5
+
+	antimony chloride
+
+SbI3
+
+	antimony iodide
+
+SbPO4
+
+	antimony phosphate
+
+Sb2OS2
+
+	antimony oxysulfide
+
+Sb2O3
+
+	antimony oxide
+
+Sb2O5
+
+	antimony oxide
+
+Sb2S3
+
+	antimony sulfide
+
+Sb2Se3
+
+	antimony selenide
+
+Sb2Se5
+
+	antimony selenide
+
+Sb2Te3
+
+	antimony telluride
+
+Sc2O3
+
+	scandium oxide
+
+SeBr4
+
+	selenium bromide
+
+SeCl
+
+	selenium chloride
+
+SeCl4
+
+	selenium chloride
+
+SeOCl2
+
+	selenium oxychloride
+
+SeOF2
+
+	selenyl difluoride
+
+SeO2
+
+	selenium oxide
+
+SeO4(2-)
+
+	selenate ion
+
+SeTe
+
+	selenium telluride
+
+SiBr4
+
+	silicon bromide
+
+SiC
+
+	silicon carbide
+
+SiCl4
+
+	silicon chloride
+
+SiH4
+
+	silane
+
+SiI4
+
+	silicon iodide
+
+SiO2
+
+	silicon dioxide
+
+SiO4(4-)
+
+	silicate ion
+
+Si2O7(6-)
+
+	disilicate ion
+
+Si3N4
+
+	silicon nitride
+
+SnBrCl3
+
+	tin bromotrichloride
+
+SnBr2
+
+	tin bromide
+
+SnBr2Cl2
+
+	tin dibromodichloride
+
+SnBr3Cl
+
+	tin tribromochloride
+
+SnBr4
+
+	tin bromide
+
+Sn(CH3COO)2
+
+	tin acetate
+
+Sn(CH3COO)4
+
+	tin acetate
+
+SnCl2
+
+	tin chloride
+
+SnCl2I2
+
+	tin dichlorodiiodide
+
+SnCl4
+
+	tin chloride
+
+Sn(CrO4)2
+
+	tin chromate
+
+SnI4
+
+	tin iodide
+
+Sn(OH)2
+
+	tin hydroxide
+
+Sn(OH)4
+
+	tin hydroxide
+
+SnO
+
+	tin oxide
+
+SnO2
+
+	tin oxide
+
+SnO32-
+
+	stannate ion
+
+SnS
+
+	tin sulfide
+
+SnS2
+
+	tin sulfide
+
+Sn(SO4)2·2H2O
+
+	tin sulfate dihydrate
+
+SnSe
+
+	tin selenide
+
+SnSe2
+
+	tin selenide
+
+SnTe
+
+	tin telluride
+
+SnTe4
+
+	tin telluride
+
+Sn(VO3)2
+
+	tin metavanadate
+
+Sn3Sb4
+
+	tin antimonide
+
+SrBr2
+
+	strontium bromide
+
+SrBr2·6H2O
+
+	strontium bromide hexahydrate
+
+SrCO3
+
+	strontium carbonate
+
+SrCl2
+
+	strontium chloride
+
+SrC2O4
+
+	strontium oxalate
+
+SrF2
+
+	strontium fluoride
+
+Sr(HS)2
+
+	strontium hydrosulfide
+
+SrI2
+
+	strontium iodide
+
+SrI2·6H2O
+
+	strontium iodide hexahydrate
+
+Sr(MnO4)2
+
+	strontium permanganate
+
+SrMoO4
+
+	strontium orthomolybdate
+
+Sr(NbO3)2
+
+	strontium metaniobate
+
+SrO
+
+	strontium oxide
+
+Sr2RuO4
+
+	strontium ruthenate
+
+SrS
+
+	strontium sulfide
+
+SrSeO3
+
+	strontium selenite
+
+SrSeO4
+
+	strontium selenate
+
+SrTeO3
+
+	strontium tellurite
+
+SrTeO4
+
+	strontium tellurate
+
+SrTiO3
+
+	strontium metatitanate
+
+T2O
+
+	tritium oxide
+
+TaBr3
+
+	tantalum bromide
+
+TaBr5
+
+	tantalum bromide
+
+TaCl5
+
+	tantalum chloride
+
+TaI5
+
+	tantalum iodide
+
+TaO(3-)
+
+	tantalate ion
+
+TcO(4-)
+
+	pertechnetate ion
+
+TeBr2
+
+	tellurium bromide
+
+TeBr4
+
+	tellurium bromide
+
+TeCl2
+
+	tellurium chloride
+
+TeCl4
+
+	tellurium chloride
+
+TeI2
+
+	tellurium iodide
+
+TeI4
+
+	tellurium iodide
+
+TeO2
+
+	tellurium oxide
+
+TeO(4-)
+
+	tellurate ion
+
+TeY
+
+	yttrium telluride
+
+Th(CO3)2
+
+	thorium carbonate
+
+Th(NO3)4
+
+	thorium nitrate
+
+TiBr4
+
+	titanium bromide
+
+TiCl2I2
+
+	titanium dichlorodiiodide
+
+TiCl3I
+
+	titanium trichloroiodide
+
+TiCl4
+
+	titanium tetrachloride
+
+TiO2
+
+	titanium dioxide
+
+TiO32-
+
+	titanate ion
+
+TlBr
+
+	thallium(I) bromide
+
+TlBr3
+
+	thallium(III) bromide
+
+Tl(CHO2)
+
+	thallium(I) formate
+
+TlC2H3O2
+
+	thallium(I) acetate
+
+Tl(C3H3O4)
+
+	thalliium(I) malonate
+
+TlCl
+
+	thallium(I) chloride
+
+TlCl3
+
+	thallium(III) chloride
+
+TlF
+
+	thallium(I) fluoride
+
+TlI
+
+	thallium(I) iodide
+
+TlIO3
+
+	thallium(I) iodate
+
+TlI3
+
+	thallium(III) iodide
+
+TiI4
+
+	titanium(IV) iodide
+
+TiO(NO3)2·xH2O
+
+	titanium(IV) oxynitrate hydrate
+
+TlNO3
+
+	thallium(I) nitrate
+
+TlOH
+
+	thallium(I) hydroxide
+
+TlPF6
+
+	thallium(I) hexafluorophosphate
+
+TlSCN
+
+	thallium thiocyanate
+
+Tl2MoO4
+
+	thallium(I) orthomolybdate
+
+Tl2SeO3
+
+	thallium(I) selenite
+
+Tl2TeO3
+
+	thallium(I) tellurite
+
+Tl2WO4
+
+	thallium(I) orthotungstate
+
+Tl3As
+
+	thallium(I) arsenide
+
+UBr2
+
+	uranium dibromide
+
+UBr3
+
+	uranium tribromide
+
+UBr5
+
+	uranium pentabromide
+
+UC2
+
+	uranium carbide
+
+UCl3
+
+	uranium trichloride
+
+UCl4
+
+	uranium tetrachloride
+
+UF4
+
+	uranium(IV) fluoride
+
+UF6
+
+	uranium(VI) fluoride
+
+UN
+
+	uranium nitride
+
+UO2
+
+	uranium dioxide
+
+UO2(NO3)2
+
+	uranyl nitrate
+
+UO3
+
+	uranium trioxide
+
+U3O8
+
+	triuranium octoxide
+
+USe2
+
+	uranium diselenide
+
+US2
+
+	uranium sulfide
+
+UTe2
+
+	uranium ditelluride
+
+VBr2
+
+	vanadium(II) bromide
+
+VBr3
+
+	vanadium(III) bromide
+
+VCl2
+
+	vanadium(II) chloride
+
+VCl3
+
+	vanadium(III) chloride
+
+VN
+
+	vanadium nitride
+
+VSO5
+
+	vanadium oxysulfate
+
+V2O3
+
+	vanadium(III) oxide
+
+V2O5
+
+	vanadium pentoxide
+
+V2O74-
+
+	divanadate ion\pyrovanadate ion
+
+WBr2
+
+	tungsten(II) bromide
+
+WBr3
+
+	tungsten(III) bromide
+
+WBr4
+
+	tungsten(IV) bromide
+
+WBr5
+
+	tungsten(V) bromide
+
+WBr6
+
+	tungsten(VI) bromide
+
+W(CO)6
+
+	tungsten(VI) carbonyl
+
+WCl2
+
+	tungsten(II) chloride
+
+WCl3
+
+	tungsten(III) chloride
+
+WCl4
+
+	tungsten(IV) chloride
+
+WCl5
+
+	tungsten(V) chloride
+
+WCl6
+
+	tungsten(VI) chloride
+
+WF4
+
+	tungsten(IV) fluoride
+
+WF5
+
+	tungsten(V) fluoride
+
+WF6
+
+	tungsten(VI) fluoride
+
+WI2
+
+	tungsten(II) iodide
+
+WI4
+
+	tungsten(IV) iodide
+
+WOBr3
+
+	tungsten(V) oxytribromide
+
+WOBr4
+
+	tungsten(VI) oxytetrabromide
+
+WOCl3
+
+	tungsten(V) oxytrichloride
+
+WOCl4
+
+	tungsten(VI) oxytetrachloride
+
+WOF4
+
+	tungsten(VI) oxytetrafluoride
+
+WO2
+
+	tungsten(IV) oxide
+
+WO2Br2
+
+	tungsten(VI) dioxydibromide
+
+WO2Cl2
+
+	tungsten(VI) dioxydichloride
+
+WO2I2
+
+	tungsten(VI) dioxydiiodide
+
+WO3
+
+	tungsten(VI) oxide
+
+WO42-
+
+	tungstate ion
+
+WS2
+
+	tungsten(IV) sulfide
+
+WS3
+
+	tungsten(VI) sulfide
+
+WSe2
+
+	tungsten(IV) selenide
+
+WTe2
+
+	tungsten(IV) telluride
+
+W2C
+
+	tungsten carbide
+
+YAs
+
+	yttrium arsenide
+
+YB6
+
+	yttrium boride
+
+YBr3
+
+	yttrium bromide
+
+YC2
+
+	yttrium carbide
+
+YCl3
+
+	yttrium chloride
+
+YF3
+
+	yttrium fluoride
+
+YP
+
+	yttrium phosphide
+
+YSb
+
+	yttrium antimonide
+
+YVO4
+
+	yttrium vanadate
+
+Y2O3
+
+	yttria\yttrium oxide
+
+Y2S3
+
+	yttrium sulfide
+
+YbBr2
+
+	ytterbium(II) bromide
+
+YbBr3
+
+	ytterbium(III) bromide
+
+YbCl2
+
+	ytterbium(II)chloride
+
+YbCl3
+
+	ytterbium(III) chloride
+
+YbCl3·6H2O
+
+	ytterbium(III) chloride hexahydrate
+
+YbF2
+
+	ytterbium(II) fluoride
+
+YbF3
+
+	ytterbium(III) fluoride
+
+YbI2
+
+	ytterbium(II) iodide
+
+YbI3
+
+	ytterbium(III) iodide
+
+YbSe
+
+	ytterbium(II) selenide
+
+YbSi2
+
+	ytterbium(II) silicide
+
+Yb2O3
+
+	ytterbium(III) oxide
+
+Yb2S3
+
+	ytterbium(III) sulfide
+
+Yb2Se3
+
+	ytterbium(III) selenide
+
+YbTe
+
+	ytterbium(II) telluride
+
+Zn(AlO2)2
+
+	zinc aluminate
+
+Zn(AsO2)2
+
+	zinc arsenite
+
+ZnBr2
+
+	zinc bromide
+
+Zn(CN)2
+
+	zinc cyanide
+
+ZnCO3
+
+	zinc carbonate
+
+Zn(C8H15O2)2
+
+	zinc caprylate
+
+Zn(ClO3)2
+
+	zinc chlorate
+
+ZnCl2
+
+	zinc chloride
+
+ZnCr2O4
+
+	zinc chromite
+
+ZnF2
+
+	zinc fluoride
+
+Zn(IO3)2
+
+	zinc iodate
+
+ZnI2
+
+	zinc iodide
+
+ZnMoO4
+
+	zinc orthomolybdate
+
+Zn(NO2)2
+
+	zinc nitrite
+
+Zn(NO3)2
+
+	zinc nitrate
+
+Zn(NbO3)2
+
+	zinc metaniobate
+
+ZnO
+
+	zinc(II) oxide\zinc oxide
+
+ZnO2
+
+	zinc peroxide
+
+Zn(OH)2
+
+	zinc hydroxide
+
+Zn(OH)42-
+
+	zincate ion
+
+ZnS
+
+	zinc sulfide\sphalerite
+
+Zn(SCN)2
+
+	zinc thiocyanate
+
+ZnSO4
+
+	zinc sulfate
+
+ZnSb
+
+	zinc antimonide
+
+ZnSe
+
+	zinc selenide
+
+ZnSeO3
+
+	zinc selenite
+
+ZnSnO3
+
+	zinc stannate
+
+Zn(TaO3)2
+
+	zinc metatantalate
+
+ZnTe
+
+	zinc telluride
+
+ZnTeO3
+
+	zinc tellurite
+
+ZnTeO4
+
+	zinc tellurate
+
+ZnTiO3
+
+	zinc metatitanate
+
+Zn(VO3)2
+
+	zinc metavanadate
+
+ZnWO4
+
+	zinc orthotungstate
+
+ZnZrO3
+
+	zinc metazirconate
+
+Zn2P2O7
+
+	zinc pyrophosphate
+
+Zn2SiO4
+
+	zinc orthosilicate
+
+Zn3(AsO4)2
+
+	zinc arsenate
+
+Zn3As2
+
+	zinc arsenide
+
+Zn3N2
+
+	zinc nitride
+
+Zn3P2
+	zinc phosphide
+
+Zn3(PO4)2
+
+	zinc phosphate
+
+Zn3Sb2
+
+	zinc antimonide
+
+ZrB2
+
+	zirconium boride
+
+ZrBr4
+
+	zirconium bromide
+
+ZrC
+
+	zirconium carbide
+
+ZrCl4
+
+	zirconium tetrachloride
+
+ZrF4
+
+	zirconium fluoride
+
+ZrI4
+
+	zirconium iodide
+
+ZrN
+
+	zirconium nitride
+
+Zr(OH)4
+
+	zirconium hydroxide
+
+ZrO2
+
+	zirconium dioxide\baddeleyite
+
+ZrO32-
+
+	zirconate ion
+
+ZrP2
+
+	zirconium phosphide
+
+ZrS2
+
+	zirconium sulfide
+
+ZrSi2
+
+	zirconium silicide
+
+ZrSiO4
+
+	zirconium orthosilicate
+
+Zr3(PO4)4
+
+	zirconium phosphate
