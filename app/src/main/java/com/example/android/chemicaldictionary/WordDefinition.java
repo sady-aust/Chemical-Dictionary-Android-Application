@@ -2,9 +2,16 @@ package com.example.android.chemicaldictionary;
 
 import java.util.ArrayList;
 
-/**
- * Created by rafiqul islam on 11/29/2016.
+/*
+ *In the name of Allah the Most Merciful.
+ * Author
+ * Md. Toufiqul Islam
+ * Dept. Of CSE
+ * Ahsanullah University Of Science And Technology
  */
+
+
+					
 
 public class WordDefinition {
 
